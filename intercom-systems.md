@@ -47,14 +47,11 @@ Przy wyborze istotne są następujące kryteria:
 ---
 
 ## Bezpieczeństwo i wygoda codzienna
-
-Przy wyborze nowego systemu szczególną uwagę zwrócono na aspekty bezpieczeństwa i komfortu:
-
-- **Bezpieczeństwo**: kamery przy wejściach umożliwiają łatwe rozpoznanie odwiedzających, a solidne panele są odporne na uszkodzenia i akty wandalizmu.  
-- **Łatwe otwieranie drzwi**: dostęp możliwy za pomocą breloka RFID lub kodu PIN – koniec z koniecznością poszukiwania kluczy np. w deszczu lub z zakupami w ręku.  
-- **Wygoda w mieszkaniach**: możliwość zainstalowania dodatkowych unifonów lub monitorów, aby nie trzeba było podchodzić do drzwi przy każdym wywołaniu.  
-- **Dostępność serwisowa**: wybrane systemy mają zapewnioną obsługę i części zamienne w Polsce, co gwarantuje ich długowieczność.  
-- **Elastyczność**: systemy działają w pełni bez dodatkowych aplikacji, ale dla osób zainteresowanych dostępna jest obsługa przez smartfona.  
+- **Bezpieczeństwo** – kamery pokazują, kto stoi przy drzwiach, a panele są odporne na uszkodzenia.  
+- **Łatwe otwieranie** – drzwi można odblokować kodem PIN lub brelokiem, bez szukania kluczy.  
+- **Komfort** – dodatkowe unifony lub monitory pozwalają odebrać wywołanie w dowolnym pomieszczeniu.  
+- **Niezawodność** – części i serwis są dostępne w Polsce, więc system będzie działał stabilnie przez lata.  
+- **Elastyczność** – system nie wymaga aplikacji, ale dla chętnych dostępna jest obsługa ze smartfona.  
 
 ---
 
@@ -453,8 +450,8 @@ System niszowy, odpowiedni głównie dla prostych instalacji audio.
 ## Podsumowanie
 
 Analiza dostępnych systemów wskazuje, że wybór nowego rozwiązania powinien być podyktowany przede wszystkim **bezpieczeństwem, wygodą i długowiecznością**.  
-Oba rozpatrywane systemy spełniają podstawowe wymagania, jednak różnią się poziomem nowoczesności i kosztami.  
 
+Oba rozpatrywane systemy spełniają podstawowe wymagania, jednak różnią się poziomem nowoczesności i kosztami.  
 - **Laskomex CD-3100**: tańsze rozwiązanie, wykorzystujące istniejące okablowanie, dobrze znane instalatorom.  
 - **Hikvision IP II generacji**: nowoczesny system o wyższej jakości obrazu, z możliwością rozbudowy i integracji z innymi systemami.  
 
