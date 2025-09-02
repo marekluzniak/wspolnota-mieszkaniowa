@@ -179,6 +179,7 @@ Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomo
 - [Strona produktu](https://www.hikvision.com/pl/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kd8003-ime1-b-----surface-eu/)  
 - [Lista produktów](https://www.hikvision.com/pl/products/Video-Intercom-Products/)  
 - [Karty katalogowe](https://www.hikvision.com/pl/support/download/regional-support/)  
+- [Broszura (PDF)](https://www.hikvision.com/content/dam/hikvision/eu/support/brochures/product-brochure/2nd-Generation-IP-Video-Intercom-System-New-Aug.-2022.pdf)  
 - [Cennik firmy Alarm-Tech](https://www.napad.pl/cenniki/cennik-hikvision-systemy-wideodomofonowe,49.xlsx)  
 
 #### Inne produkty producenta
@@ -197,8 +198,8 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Moduł klawiatury | DS-KD-KP | 656,33 zł | ??? zł | 362,99 zł |
 | Moduł czytnika kart | DS-KD-M | 405,41 zł | ??? zł | 248,99 zł |
 | Ramka podtynkowa | DS-KD-ACF3 | ??? zł | ??? zł | 209,98 zł |
-| ??? | ??? | ??? zł | ??? zł | ??? zł |
-| ??? | ??? | ??? zł | ??? zł | ??? zł |
+| Switch | DS-3E0318P-E/M(C) | 1 007,62 zł | ??? zł | 699,00 zł |
+| Switch | DS-3E0318P-E/M(C) | 1 007,62 zł | ??? zł | 699,00 zł |
 | Unifon | DS-KH6000-E1 | 307,01 zł | ??? zł | ??? zł |
 | Monitor wideodomofonowy | DS-KH6100-E1 | 490,03 zł | - zł | - zł |
 | Monitor wideodomofonowy | DS-KH6220-LE1 | - zł | 445,00 zł | 776,53 zł |
@@ -209,16 +210,17 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 
 ###### Na Allegro dostępnych jest wiele zamienników orygilanych części. Przykładowo: moduł czytnika kart i ramka podtynkowa za 154,99 zł.
 
-##### Przykładowy zestaw:
+##### Przykładowy zestaw 1:
 
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
 |---|---|---|---|---|
 | Moduł stacji bramowej | DS-KD8003-IME1(B) | 2 | 549,00 zł | 1 098,00 zł |
 | Moduł klawiatury | DS-KD-KP | 2 | 362,99 zł | 725,98 zł |
 | Ramka podtynkowa | - | 2 | 209,98 zł | 419,96 zł |
+| Switch | DS-3E0318P-E/M(C) | 1 | 699,00 zł | 699,00 zł |
 | Unifon | - | 0 | ??? zł | - zł |
 | Monitor wideodomofonowy | - | 8 | 445,00 zł | 3 560,00 zł |
-| **Razem** | | | | **??? zł** |
+| **Razem** | | | | **6502,94 zł** |
 
 #### Uwagi
 
