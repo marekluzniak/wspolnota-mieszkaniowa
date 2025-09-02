@@ -170,9 +170,9 @@ Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomo
 
 - [Strona producenta](https://www.hikvision.com/pl/)  
 - [Strona produktu](https://www.hikvision.com/pl/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kd8003-ime1-b-----surface-eu/)  
-- [Lista produktów]([https://www.laskomex.com.pl/produkty/produkty.php](https://www.hikvision.com/pl/products/Video-Intercom-Products/))  
-- [Karty katalogowe]()  
-- [Cennik producenta]()  
+- [Lista produktów](https://www.hikvision.com/pl/products/Video-Intercom-Products/)  
+- [Karty katalogowe](https://www.hikvision.com/pl/support/download/regional-support/)  
+- [Cennik firmy Alarm-Tech](https://www.napad.pl/cenniki/cennik-hikvision-systemy-wideodomofonowe,49.xlsx)  
 
 ##### Inne produkty producenta
 
