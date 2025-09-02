@@ -115,7 +115,9 @@ W porównaniu do CD-250 oferuje szerszą gamę urządzeń końcowych, w tym moni
 
 #### Szacowany koszt zakupu i montażu
 
-Ceny poszczególnych elementów systemu:
+Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
+
+##### Cennik podzespołów
 
 | Typ podzespołu | Nazwa podzespołu | Alarm-Tech | EC System | Allegro |
 |---|---|---|---|---|
@@ -126,7 +128,9 @@ Ceny poszczególnych elementów systemu:
 | Unifon | 1131/621 | 98,40 zł | 98,40 zł | - zł |
 | Monitor wideodomofonowy | MVC-8151-1 | 601,47 zł | 750,30 zł | 708,52 zł |
 
-Przykładowy zestaw:
+###### Uwaga: nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
+
+##### Przykładowy zestaw:
 
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
 |---|---|---|---|---|
@@ -183,15 +187,34 @@ W trakcie tworzenia.
 
 #### Szacowany koszt zakupu i montażu
 
-Ceny poszczególnych elementów systemu:
+Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 
-W trakcie tworzenia.
+##### Cennik podzespołów
 
-Przykładowy zestaw:
+| Typ podzespołu | Nazwa podzespołu | Alarm-Tech | EC System | Allegro |
+|---|---|---|---|---|
+| Panel zewnętrzny | DS-KD8003-IME1(B) | 968,26 zł | - zł | 549,00 zł |
+| Kaseta elektroniki | ??? | ??? zł | ??? zł | ??? zł |
+| Zasilacz | ??? | ??? zł | ??? zł | ??? zł |
+| Moduł kamery | ??? | ??? zł | - zł | ??? zł |
+| Unifon | ??? | ??? zł | ??? zł | ??? zł |
+| Monitor wideodomofonowy | ??? | ??? zł | ??? zł | ??? zł |
 
-W trakcie tworzenia.
+###### Uwaga: nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
 
-Razem: W trakcie tworzenia.
+###### Uwaga: ceny pochodzące z firmy Alarm-Tech mogą się różnić od dostępnych na ich stronie internetowej, gdyż w ofercie cenowej 44204/GŁ/09/2025 zastosowali rabat w wysokości 20%.
+
+##### Przykładowy zestaw:
+
+| Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
+|---|---|---|---|---|
+| Panel zewnętrzny | DS-KD8003-IME1(B) | 2 | 549,00 zł | 1 098,00 zł |
+| Kaseta elektroniki | - | 1 | ??? zł | ??? zł |
+| Zasilacz | - | 2 | ??? zł | ??? zł |
+| Moduł kamery | - | 2 | ??? zł | ??? zł |
+| Unifon | - | 0 | 98,40 zł | - zł |
+| Monitor wideodomofonowy | - | 8 | ??? zł | ??? zł |
+| **Razem** | | | | **??? zł** |
 
 #### Uwagi
 
