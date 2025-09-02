@@ -1,2 +1,10 @@
-# wspolnota-mieszkaniowa
-Dokumenty publicznie dostępne dla wspólnoty mieszkaniowej
+# Wspólnota mieszkaniowa
+
+Witam na stronie naszej wspólnoty mieszkaniowej.
+
+## Dokumenty
+
+Lista publicznie dostępnych dokumentów:
+
+- [`Systemy domofonowe`](./intercom-systems.md)
+
