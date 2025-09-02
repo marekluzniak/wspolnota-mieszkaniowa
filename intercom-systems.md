@@ -146,7 +146,7 @@ Obsługa więcej niż jednego przycisku wymaga doprowadzenia dodatkowych przewod
 
 #### Hikvision IP — IP (PoE) audio/wideo  
 
-![Hikvision IP](https://www.cctvempire.co.uk/image/cache/catalog/Access%20Control/DS-KD8003-IME/ds-kd8003-ime1_with_ds-kd-kk_and_ds-kd-kp-1000x1000.png)
+![Hikvision IP](https://cfrouting.zoeysite.com/cdn-cgi/image/fit=scale-down,width=1200,format=auto,quality=70/https://s3.amazonaws.com/zcom-media/sites/a0iE000000L4djCIAR/media/catalog/product/d/s/ds-kd8003-ime1_03_4.jpg)
 
 ##### Producent
 
