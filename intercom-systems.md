@@ -58,12 +58,12 @@ Popularne są trzy rozwiązania:
 
 #### 2-żyłowy system cyfrowy (audio lub wideo)
 
-Najprostsze i najtańsze rozwiązanie, zdecydowanie najpopularniejsze w starszych budynkach.  
+Najprostsze i najtańsze rozwiązanie. Najpopularniejsze w budynkach, których instalacje domofonowe były realizowane wiele lat temu.  
 Charakteryzuje się niskim kosztem zakupu i jest kompatybilne z naszym aktualnym okablowaniem.  
 
 #### IP (PoE lub Wi-Fi)
 
-Rozwiązanie oferujące najwyższą aktualnie jakość audio i wideo oraz możliwość rozbudowy o aplikacje do zdalnej administracji.  
+Rozwiązanie oferujące najwyższą jakość audio i wideo oraz możliwość łatwej rozbudowy.  
 Koszt zakupu jest wyższy niż w przypadku instalacji 2-żyłowej i wymaga okablowania Ethernet (przewód internetowy).  
 
 #### Hybryda (2-żyłowy + bramka IP)
@@ -82,7 +82,21 @@ Laskomex (PL) — ponad 30 lat na rynku, szeroka baza instalacji referencyjnych;
 
 ##### Model i seria
 
-CD-3100 — rozbudowany system 2-żyłowy...  
+**CD-3100** to rozbudowany system 2-żyłowy, który stanowi następcę starszych central (np. CD-250).  
+- Umożliwia obsługę zarówno zwykłych unifonów audio, jak i monitorów wideo.  
+- Cała instalacja działa w oparciu o magistralę dwuprzewodową, co upraszcza okablowanie i pozwala wykorzystać istniejącą infrastrukturę (np. przewody po starym domofonie).  
+- System umożliwia podłączenie dodatkowych modułów, takich jak czytniki RFID, moduły kamer czy rozszerzenia pozwalające obsługiwać większą liczbę lokali.  
+- Dedykowany jest do instalacji w budynkach wielorodzinnych.  
+
+W porównaniu do CD-250 oferuje szerszą gamę urządzeń końcowych, w tym monitory wideodomofonowe, oraz łatwiejszą integrację z modułami dodatkowych funkcji.
+
+##### Wady rozwiązania
+
+- Technologia 2-żyłowa, choć tańsza, jest już rozwiązaniem przestarzałym i nie daje pełnej elastyczności i rozbudowy jak systemy IP.  
+- Obraz wideo (przy zastosowaniu monitorów) ma ograniczoną jakość w porównaniu do systemów IP (niższa rozdzielczość, mniejsza płynność).  
+- Architektura magistralowa oznacza, że awaria linii głównej może powodować problemy w całym pionie lub większej liczbie mieszkań.  
+- Wiele dodatkowych funkcji wymaga dodatkowych modułów, które znacząco podnoszą koszt.  
+- Zależność od jednego producenta – ograniczone możliwości łączenia elementów z urządzeniami innych firm.  
 
 ##### Linki
 
@@ -109,6 +123,19 @@ Ceny poszczególnych elementów systemu:
 | Moduł kamery | KAM-3-1 | 282,90 zł | - zł | 253,63 zł |
 | Unifon | 1131/621 | 98,40 zł | 98,40 zł | - zł |
 | Monitor wideodomofonowy | MVC-8151-1 | 601,47 zł | 750,30 zł | 708,52 zł |
+
+Przykładowy zestaw:
+
+| Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
+|---|---|---|---|---|
+| Panel zewnętrzny | CP-3113R INOX RFID | 2 | 1 353,00 zł | 2 706,00 zł |
+| Kaseta elektroniki | EC-3100R-2 | 1 | 465,12 zł | 465,12 zł |
+| Zasilacz | TR/B 2303 | 2 | 123,00 zł | 230,00 zł |
+| Moduł kamery | KAM-3-1 | 2 | 253,63 zł | 507,26 zł |
+| Unifon | 1131/621 | 0 | 98,40 zł | - zł |
+| Monitor wideodomofonowy | MVC-8151-1 | 8 | 601,47 zł | 4 811,76 zł |
+
+Razem: 8 720,14 zł
 
 ##### Uwagi
 
