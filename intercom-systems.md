@@ -128,7 +128,7 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Unifon | 1131/621 | 98,40 zł | 98,40 zł | - zł |
 | Monitor wideodomofonowy | MVC-8151-1 | 601,47 zł | 750,30 zł | 708,52 zł |
 
-###### Uwaga: nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
+###### Nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
 
 ##### Przykładowy zestaw:
 
@@ -158,7 +158,7 @@ Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomo
 
 #### Model i seria
 
-**Seria Pro (IP, PoE)** to modułowy system wideodomofonowy, przeznaczony do nowoczesnych instalacji.  
+**Seria IP II generacji (PoE)** to modułowy system wideodomofonowy, przeznaczony do nowoczesnych instalacji.  
 
 #### Zalety rozwiązania
 - Wysoka jakość obrazu i dźwięku dzięki technologii IP.  
@@ -193,27 +193,31 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 
 | Typ podzespołu | Nazwa podzespołu | Alarm-Tech | EC System | Allegro |
 |---|---|---|---|---|
-| Panel zewnętrzny | DS-KD8003-IME1(B) | 968,26 zł | - zł | 549,00 zł |
-| Kaseta elektroniki | ??? | ??? zł | ??? zł | ??? zł |
-| Zasilacz | ??? | ??? zł | ??? zł | ??? zł |
-| Moduł kamery | ??? | ??? zł | - zł | ??? zł |
-| Unifon | ??? | ??? zł | ??? zł | ??? zł |
-| Monitor wideodomofonowy | ??? | ??? zł | ??? zł | ??? zł |
+| Moduł stacji bramowej | DS-KD8003-IME1(B) | 968,26 zł | ??? zł | 549,00 zł |
+| Moduł klawiatury | DS-KD-KP | 656,33 zł | ??? zł | 362,99 zł |
+| Moduł czytnika kart | DS-KD-M | 405,41 zł | ??? zł | 248,99 zł |
+| Ramka podtynkowa | DS-KD-ACF3 | ??? zł | ??? zł | 209,98 zł |
+| ??? | ??? | ??? zł | ??? zł | ??? zł |
+| ??? | ??? | ??? zł | ??? zł | ??? zł |
+| Unifon | DS-KH6000-E1 | 307,01 zł | ??? zł | ??? zł |
+| Monitor wideodomofonowy | DS-KH6100-E1 | 490,03 zł | - zł | - zł |
+| Monitor wideodomofonowy | DS-KH6220-LE1 | - zł | 445,00 zł | 776,53 zł |
 
-###### Uwaga: nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
+###### Nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
 
-###### Uwaga: ceny pochodzące z firmy Alarm-Tech mogą się różnić od dostępnych na ich stronie internetowej, gdyż w ofercie cenowej 44204/GŁ/09/2025 zastosowali rabat w wysokości 20%.
+###### Ceny pochodzące z firmy Alarm-Tech mogą się różnić od dostępnych na ich stronie internetowej, gdyż w ofercie cenowej 44204/GŁ/09/2025 zastosowali rabat w wysokości 20%.
+
+###### Na Allegro dostępnych jest wiele zamienników orygilanych części. Przykładowo: moduł czytnika kart i ramka podtynkowa za 154,99 zł.
 
 ##### Przykładowy zestaw:
 
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
 |---|---|---|---|---|
-| Panel zewnętrzny | DS-KD8003-IME1(B) | 2 | 549,00 zł | 1 098,00 zł |
-| Kaseta elektroniki | - | 1 | ??? zł | ??? zł |
-| Zasilacz | - | 2 | ??? zł | ??? zł |
-| Moduł kamery | - | 2 | ??? zł | ??? zł |
-| Unifon | - | 0 | 98,40 zł | - zł |
-| Monitor wideodomofonowy | - | 8 | ??? zł | ??? zł |
+| Moduł stacji bramowej | DS-KD8003-IME1(B) | 2 | 549,00 zł | 1 098,00 zł |
+| Moduł klawiatury | DS-KD-KP | 2 | 362,99 zł | 725,98 zł |
+| Ramka podtynkowa | - | 2 | 209,98 zł | 419,96 zł |
+| Unifon | - | 0 | ??? zł | - zł |
+| Monitor wideodomofonowy | - | 8 | 445,00 zł | 3 560,00 zł |
 | **Razem** | | | | **??? zł** |
 
 #### Uwagi
