@@ -48,54 +48,50 @@ Funkcje, które nie są wymagane, ale zwiększą bezpieczeństwo i komfort użyt
 - Dowolność wyboru urządzeń wspierających wyłącznie audio w poszczególnych lokalach  
 - Integracja z aplikacją mobilną (możliwość odbierania domofonu na smartfonie)  
 
-## Bieżąca oferta rynkowa
+## Architektura systemu domofonowego
 
-W tej części zostanie przedstawiona oferta, która jest aktualnie dostępna na polskim rynku.
+Aktualnie na polskim rynku popularne są trzy rozwiązania:
 
-### Architektura systemu domofonowego
-
-Popularne są trzy rozwiązania:
-
-#### 2-żyłowy system cyfrowy (audio lub wideo)
+### 2-żyłowy system cyfrowy (audio lub wideo)
 
 Najprostsze i najtańsze rozwiązanie. Najpopularniejsze w budynkach, których instalacje domofonowe były realizowane wiele lat temu.  
 Charakteryzuje się niskim kosztem zakupu i jest kompatybilne z naszym aktualnym okablowaniem.  
 
-#### IP (PoE lub Wi-Fi)
+### IP (PoE lub Wi-Fi)
 
 Rozwiązanie oferujące najwyższą jakość audio i wideo oraz możliwość łatwej rozbudowy.  
 Koszt zakupu jest wyższy niż w przypadku instalacji 2-żyłowej i wymaga okablowania Ethernet (przewód internetowy).  
 
-#### Hybryda (2-żyłowy + bramka IP)
+### Hybryda (2-żyłowy + bramka IP)
 
 Rozwiązanie dla osób chcących zachować proste okablowanie, a jednocześnie dodać do niego funkcje „smart”.  
 
-### Propozycje produktów
+## Propozycje produktów
 
 Poniżej znajduje się zestawienie sprawdzonych marek i serii dostępnych w Polsce.
 
-#### Laskomex CD-3100 — 2-żyłowy
+### Laskomex CD-3100 — 2-żyłowy
 
 <div align="center">
   <img src="./images/laskomex-cp-3113r.png" alt="Laskomex CD-3100" height="320px" />
 </div>
 
-##### Producent
+#### Producent
 
 Laskomex (PL) — ponad 30 lat na rynku, szeroka baza instalacji referencyjnych; dobry dostęp do części.  
 
-##### Model i seria
+#### Model i seria
 
 **CD-3100** to rozbudowany system 2-żyłowy, który stanowi następcę starszych central (np. CD-250).  
 
-##### Zalety rozwiązania
+#### Zalety rozwiązania
 - Niższy koszt początkowy niż systemy IP.  
 - Możliwość wykorzystania istniejącego okablowania 2-żyłowego, bez konieczności kładzenia nowych przewodów Ethernet.  
 - Stabilna i sprawdzona technologia, stosowana od wielu lat w budynkach wielorodzinnych.  
 - Szeroka baza instalacji referencyjnych i łatwa dostępność części w Polsce.  
 - Prosta obsługa i konserwacja – dobrze znana lokalnym instalatorom.  
 
-##### Wady rozwiązania
+#### Wady rozwiązania
 - Technologia 2-żyłowa, choć tańsza, jest już rozwiązaniem przestarzałym i nie daje pełnej elastyczności i rozbudowy jak systemy IP.  
 - Obraz wideo (przy zastosowaniu monitorów) ma ograniczoną jakość w porównaniu do systemów IP (niższa rozdzielczość, mniejsza płynność).  
 - Architektura magistralowa oznacza, że awaria linii głównej może powodować problemy w całym pionie lub większej liczbie mieszkań.  
@@ -104,7 +100,7 @@ Laskomex (PL) — ponad 30 lat na rynku, szeroka baza instalacji referencyjnych;
 
 W porównaniu do CD-250 oferuje szerszą gamę urządzeń końcowych, w tym monitory wideodomofonowe, oraz łatwiejszą integrację z modułami dodatkowych funkcji.
 
-##### Linki
+#### Linki
 
 - [Strona producenta](https://www.laskomex.com.pl/)  
 - [Strona produktu](https://www.laskomex.com.pl/produkty/domofony-cyfrowe.php)  
@@ -112,12 +108,12 @@ W porównaniu do CD-250 oferuje szerszą gamę urządzeń końcowych, w tym moni
 - [Karty katalogowe](https://www.laskomex.com.pl/karty-katalogowe.php)  
 - [Cennik producenta](https://www.laskomex.com.pl/cennik/cyfrowe_072025v1.pdf)  
 
-##### Inne produkty producenta
+#### Inne produkty producenta
 
 - CD-4000  
 - Bastion Gemini 2-wire IP  
 
-##### Szacowany koszt zakupu i montażu
+#### Szacowany koszt zakupu i montażu
 
 Ceny poszczególnych elementów systemu:
 
@@ -142,25 +138,25 @@ Przykładowy zestaw:
 | Monitor wideodomofonowy | MVC-8151-1 | 8 | 601,47 zł | 4 811,76 zł |
 | **Razem** | | | | **8 720,14 zł** |
 
-##### Uwagi
+#### Uwagi
 
 Obsługa więcej niż jednego przycisku wymaga doprowadzenia dodatkowych przewodów.  
 
-#### Hikvision IP — IP (PoE) audio/wideo  
+### Hikvision IP II generacji — IP (PoE)  
 
 <div align="center">
   <img src="./images/hikvision-ds-kd8003-ime1.png" alt="Hikvision IP" height="320px" />
 </div>
 
-##### Producent
+#### Producent
 
 Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomofonii; szeroka dostępność części i wsparcie techniczne w Polsce; łatwa integracja z CCTV tej marki oraz mobilną aplikacją Hik‑Connect.  
 
-##### Model i seria
+#### Model i seria
 
 **Seria Pro (IP, PoE)** to modułowy system wideodomofonowy, przeznaczony do nowoczesnych instalacji.  
 
-##### Zalety rozwiązania
+#### Zalety rozwiązania
 - Wysoka jakość obrazu i dźwięku dzięki technologii IP.  
 - Możliwość integracji z innymi systemami bezpieczeństwa (np. monitoring CCTV Hikvision).  
 - Łatwe skalowanie – dodawanie kolejnych modułów i lokali bez ingerencji w całą instalację.  
@@ -168,12 +164,12 @@ Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomo
 - Obsługa aplikacji mobilnej Hik-Connect umożliwia odbieranie rozmów na smartfonie.  
 - Zasilanie PoE – jeden przewód wystarcza do transmisji danych i zasilania urządzeń.  
 
-##### Wady rozwiązania
+#### Wady rozwiązania
 - Wyższy koszt początkowy niż w przypadku systemów 2-żyłowych.  
 - Wymaga stabilnej sieci Ethernet i switcha PoE — awaria zasilania sieciowego wpływa na wiele urządzeń.  
 - Zależność od jednego producenta (ograniczona kompatybilność z urządzeniami innych marek).  
 
-##### Linki
+#### Linki
 
 - [Strona producenta](https://www.hikvision.com/pl/)  
 - [Strona produktu](https://www.hikvision.com/pl/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kd8003-ime1-b-----surface-eu/)  
@@ -181,11 +177,11 @@ Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomo
 - [Karty katalogowe](https://www.hikvision.com/pl/support/download/regional-support/)  
 - [Cennik firmy Alarm-Tech](https://www.napad.pl/cenniki/cennik-hikvision-systemy-wideodomofonowe,49.xlsx)  
 
-##### Inne produkty producenta
+#### Inne produkty producenta
 
 W trakcie tworzenia.
 
-##### Szacowany koszt zakupu i montażu
+#### Szacowany koszt zakupu i montażu
 
 Ceny poszczególnych elementów systemu:
 
@@ -197,22 +193,22 @@ W trakcie tworzenia.
 
 Razem: W trakcie tworzenia.
 
-##### Uwagi
+#### Uwagi
 
 W trakcie tworzenia.  
 
-#### Cyfral (PC-4000/SMART-D) — 2-żyłowy audio/wideo  
+### Cyfral (PC-4000/SMART-D) — 2-żyłowy audio/wideo  
 
-#### Elfon Optima (OP-255R) — 2-żyłowy audio  
+### Elfon Optima (OP-255R) — 2-żyłowy audio  
 
-#### ACO (CDN / Inspiro) — 2-żyłowy audio/wideo + bramka acoGO!  
+### ACO (CDN / Inspiro) — 2-żyłowy audio/wideo + bramka acoGO!  
 
-#### Urmet (2Voice / Matibus SE) — 2-żyłowy audio/wideo  
+### Urmet (2Voice / Matibus SE) — 2-żyłowy audio/wideo  
 
-#### Vidos Duo — 2-żyłowy wideo  
+### Vidos Duo — 2-żyłowy wideo  
 
-#### Dahua IP — IP (PoE) wideo  
+### Dahua IP — IP (PoE) wideo  
 
-#### 2N Helios IP Verso — IP  
+### 2N Helios IP Verso — IP  
 
-#### Fermax MEET — IP  
+### Fermax MEET — IP  
