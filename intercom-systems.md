@@ -76,7 +76,9 @@ Poniżej znajduje się zestawienie sprawdzonych marek i serii dostępnych w Pols
 
 #### Laskomex CD-3100 — 2-żyłowy
 
-![Laskomex CD-3100](https://esal.pl/688-thickbox_default/cp-2513tp-inox-panel-zewnetrzny-laskomex-z-czytnikiem-kluczy-dallas.jpg)
+<div align="center">
+  <img src="./images/laskomex-cp-3113r.png" alt="Laskomex CD-3100" height="320px" />
+</div>
 
 ##### Producent
 
@@ -146,7 +148,9 @@ Obsługa więcej niż jednego przycisku wymaga doprowadzenia dodatkowych przewod
 
 #### Hikvision IP — IP (PoE) audio/wideo  
 
-![Hikvision IP](https://cfrouting.zoeysite.com/cdn-cgi/image/fit=scale-down,width=1200,format=auto,quality=70/https://s3.amazonaws.com/zcom-media/sites/a0iE000000L4djCIAR/media/catalog/product/d/s/ds-kd8003-ime1_03_4.jpg)
+<div align="center">
+  <img src="./images/hikvision-ds-kd8003-ime1.png" alt="Hikvision IP" height="320px" />
+</div>
 
 ##### Producent
 
