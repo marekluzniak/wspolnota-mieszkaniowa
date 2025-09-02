@@ -138,7 +138,6 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Kaseta elektroniki | EC-3100R-2 | 1 | 465,12 zł | 465,12 zł |
 | Zasilacz | TR/B 2303 | 2 | 123,00 zł | 230,00 zł |
 | Moduł kamery | KAM-3-1 | 2 | 253,63 zł | 507,26 zł |
-| Unifon | 1131/621 | 0 | 98,40 zł | - zł |
 | Monitor wideodomofonowy | MVC-8151-1 | 8 | 601,47 zł | 4 811,76 zł |
 | **Razem** | | | | **8 720,14 zł** |
 
@@ -197,12 +196,16 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Moduł stacji bramowej | DS-KD8003-IME1(B) | 968,26 zł | ??? zł | 549,00 zł |
 | Moduł klawiatury | DS-KD-KP | 656,33 zł | ??? zł | 362,99 zł |
 | Moduł czytnika kart | DS-KD-M | 405,41 zł | ??? zł | 248,99 zł |
+| Ramka podtynkowa | DS-KD-ACF2 | ??? zł | ??? zł | 159,90 zł |
 | Ramka podtynkowa | DS-KD-ACF3 | ??? zł | ??? zł | 209,98 zł |
-| Switch | DS-3E0318P-E/M(C) | 1 007,62 zł | ??? zł | 699,00 zł |
 | Switch | DS-3E0318P-E/M(C) | 1 007,62 zł | ??? zł | 699,00 zł |
 | Unifon | DS-KH6000-E1 | 307,01 zł | ??? zł | ??? zł |
 | Monitor wideodomofonowy | DS-KH6100-E1 | 490,03 zł | - zł | - zł |
 | Monitor wideodomofonowy | DS-KH6220-LE1 | - zł | 445,00 zł | 776,53 zł |
+| Monitor wideodomofonowy | DS-KH6320-WTE1 | 1 517,82 zł | 1 303,80 zł | 735,00 zł |
+| Monitor wideodomofonowy | DS-KH8520-WTE1 | 2 364,06 zł | ??? zł | 1 318,00 zł |
+| Monitor wideodomofonowy | DS-KH9310-WTE1(B) | 2 249,67 zł | 1 793,34 zł | 997,00 zł |
+| Monitor wideodomofonowy | DS-KH9510-WTE1(B) | 2 826,54 zł | 2 554,71 zł | 1 139,00 zł |
 
 ###### Nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
 
@@ -216,11 +219,21 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 |---|---|---|---|---|
 | Moduł stacji bramowej | DS-KD8003-IME1(B) | 2 | 549,00 zł | 1 098,00 zł |
 | Moduł klawiatury | DS-KD-KP | 2 | 362,99 zł | 725,98 zł |
-| Ramka podtynkowa | - | 2 | 209,98 zł | 419,96 zł |
+| Ramka podtynkowa | DS-KD-ACF2 | 2 | 159,90 zł | 319,80 zł |
 | Switch | DS-3E0318P-E/M(C) | 1 | 699,00 zł | 699,00 zł |
-| Unifon | - | 0 | ??? zł | - zł |
-| Monitor wideodomofonowy | - | 8 | 445,00 zł | 3 560,00 zł |
-| **Razem** | | | | **6502,94 zł** |
+| Monitor wideodomofonowy | DS-KH6220-LE1 | 8 | 445,00 zł | 3 560,00 zł |
+| **Razem** | | | | **6 402,78 zł** |
+
+##### Przykładowy zestaw 2:
+
+| Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
+|---|---|---|---|---|
+| Moduł stacji bramowej | DS-KD8003-IME1(B) | 2 | 549,00 zł | 1 098,00 zł |
+| Moduł klawiatury | DS-KD-KP | 2 | 362,99 zł | 725,98 zł |
+| Ramka podtynkowa | DS-KD-ACF2 | 2 | 159,90 zł | 319,80 zł |
+| Switch | DS-3E0318P-E/M(C) | 1 | 699,00 zł | 699,00 zł |
+| Monitor wideodomofonowy | DS-KH6320-WTE1 | 8 | 735,00 zł | 5 880,00 zł |
+| **Razem** | | | | **8 722,78 zł** |
 
 #### Uwagi
 
