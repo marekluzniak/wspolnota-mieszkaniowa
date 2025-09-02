@@ -108,11 +108,6 @@ W porównaniu do CD-250 oferuje szerszą gamę urządzeń końcowych, w tym moni
 - [Karty katalogowe](https://www.laskomex.com.pl/karty-katalogowe.php)  
 - [Cennik producenta](https://www.laskomex.com.pl/cennik/cyfrowe_072025v1.pdf)  
 
-#### Inne produkty producenta
-
-- CD-4000  
-- Bastion Gemini 2-wire IP  
-
 #### Szacowany koszt zakupu i montażu
 
 Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
@@ -130,6 +125,24 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 
 ###### Nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
 
+##### Cennik materiałów montażowych
+
+| Typ materiału | Producent | Nazwa | Opis | Cena | Link do oferty | Uwagi |
+|---|---|---|---|---|---|---|
+| Kabel sieciowy | Lanberg | U/UTP CCA Kat. 6 (305 metrów) | - | 279,99 zł | [Allegro](https://allegro.pl/oferta/kabel-sieciowy-kat-6-cat-6-przewod-skretka-cca-utp-lan-rj45-305m-lanberg-6999452924) | Chyba najtańsza opcja |
+
+##### Cennik usługi montażu
+
+| Nazwa usługi | Opis | Cena | Uwagi |
+|---|---|---|---|
+| - | - | - zł | - |
+
+##### Cennik serwisu
+
+| Nazwa usługi | Opis | Cena | Uwagi |
+|---|---|---|---|
+| - | - | - zł | - |
+
 ##### Przykładowy zestaw:
 
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
@@ -140,6 +153,11 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Moduł kamery | KAM-3-1 | 2 | 253,63 zł | 507,26 zł |
 | Monitor wideodomofonowy | MVC-8151-1 | 8 | 601,47 zł | 4 811,76 zł |
 | **Razem** | | | | **8 720,14 zł** |
+
+#### Inne produkty producenta
+
+- CD-4000  
+- Bastion Gemini 2-wire IP  
 
 #### Uwagi
 
@@ -181,10 +199,6 @@ Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomo
 - [Broszura (PDF)](https://www.hikvision.com/content/dam/hikvision/eu/support/brochures/product-brochure/2nd-Generation-IP-Video-Intercom-System-New-Aug.-2022.pdf)  
 - [Cennik firmy Alarm-Tech](https://www.napad.pl/cenniki/cennik-hikvision-systemy-wideodomofonowe,49.xlsx)  
 
-#### Inne produkty producenta
-
-W trakcie tworzenia.
-
 #### Szacowany koszt zakupu i montażu
 
 Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
@@ -213,6 +227,24 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 
 ###### Na Allegro dostępnych jest wiele zamienników orygilanych części. Przykładowo: moduł czytnika kart i ramka podtynkowa za 154,99 zł.
 
+##### Cennik materiałów montażowych
+
+| Typ materiału | Producent | Nazwa | Opis | Cena | Link do oferty | Uwagi |
+|---|---|---|---|---|---|---|
+| Kabel sieciowy | Lanberg | U/UTP CCA Kat. 6 (305 metrów) | - | 279,99 zł | [Allegro](https://allegro.pl/oferta/kabel-sieciowy-kat-6-cat-6-przewod-skretka-cca-utp-lan-rj45-305m-lanberg-6999452924) | Jedna z najtańszych dostępnych opcji |
+
+##### Cennik usługi montażu
+
+| Nazwa usługi | Opis | Cena | Uwagi |
+|---|---|---|---|
+| - | - | - zł | - |
+
+##### Cennik serwisu
+
+| Nazwa usługi | Opis | Cena | Uwagi |
+|---|---|---|---|
+| - | - | - zł | - |
+
 ##### Przykładowy zestaw 1:
 
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
@@ -234,6 +266,10 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Switch | DS-3E0318P-E/M(C) | 1 | 699,00 zł | 699,00 zł |
 | Monitor wideodomofonowy | DS-KH6320-WTE1 | 8 | 735,00 zł | 5 880,00 zł |
 | **Razem** | | | | **8 722,78 zł** |
+
+#### Inne produkty producenta
+
+W trakcie tworzenia.
 
 #### Uwagi
 
