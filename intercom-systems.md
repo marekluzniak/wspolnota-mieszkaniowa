@@ -83,28 +83,30 @@ Laskomex (PL) — ponad 30 lat na rynku, szeroka baza instalacji referencyjnych;
 ##### Model i seria
 
 **CD-3100** to rozbudowany system 2-żyłowy, który stanowi następcę starszych central (np. CD-250).  
-- Umożliwia obsługę zarówno zwykłych unifonów audio, jak i monitorów wideo.  
-- Cała instalacja działa w oparciu o magistralę dwuprzewodową, co upraszcza okablowanie i pozwala wykorzystać istniejącą infrastrukturę (np. przewody po starym domofonie).  
-- System umożliwia podłączenie dodatkowych modułów, takich jak czytniki RFID, moduły kamer czy rozszerzenia pozwalające obsługiwać większą liczbę lokali.  
-- Dedykowany jest do instalacji w budynkach wielorodzinnych.  
 
-W porównaniu do CD-250 oferuje szerszą gamę urządzeń końcowych, w tym monitory wideodomofonowe, oraz łatwiejszą integrację z modułami dodatkowych funkcji.
+##### Zalety rozwiązania
+- Niższy koszt początkowy niż systemy IP.  
+- Możliwość wykorzystania istniejącego okablowania 2-żyłowego, bez konieczności kładzenia nowych przewodów Ethernet.  
+- Stabilna i sprawdzona technologia, stosowana od wielu lat w budynkach wielorodzinnych.  
+- Szeroka baza instalacji referencyjnych i łatwa dostępność części w Polsce.  
+- Prosta obsługa i konserwacja – dobrze znana lokalnym instalatorom.  
 
 ##### Wady rozwiązania
-
 - Technologia 2-żyłowa, choć tańsza, jest już rozwiązaniem przestarzałym i nie daje pełnej elastyczności i rozbudowy jak systemy IP.  
 - Obraz wideo (przy zastosowaniu monitorów) ma ograniczoną jakość w porównaniu do systemów IP (niższa rozdzielczość, mniejsza płynność).  
 - Architektura magistralowa oznacza, że awaria linii głównej może powodować problemy w całym pionie lub większej liczbie mieszkań.  
 - Wiele dodatkowych funkcji wymaga dodatkowych modułów, które znacząco podnoszą koszt.  
 - Zależność od jednego producenta – ograniczone możliwości łączenia elementów z urządzeniami innych firm.  
 
+W porównaniu do CD-250 oferuje szerszą gamę urządzeń końcowych, w tym monitory wideodomofonowe, oraz łatwiejszą integrację z modułami dodatkowych funkcji.
+
 ##### Linki
 
-- Strona producenta (PL): https://www.laskomex.com.pl/  
-- Strona produktu: https://www.laskomex.com.pl/produkty/domofony-cyfrowe.php  
-- Lista produktów: https://www.laskomex.com.pl/produkty/produkty.php  
-- Karty katalogowe: https://www.laskomex.com.pl/karty-katalogowe.php  
-- Cennik producenta: https://www.laskomex.com.pl/cennik/cyfrowe_072025v1.pdf  
+- [Strona producenta](https://www.laskomex.com.pl/)  
+- [Strona produktu](https://www.laskomex.com.pl/produkty/domofony-cyfrowe.php)  
+- [Lista produktów](https://www.laskomex.com.pl/produkty/produkty.php)  
+- [Karty katalogowe](https://www.laskomex.com.pl/karty-katalogowe.php)  
+- [Cennik producenta](https://www.laskomex.com.pl/cennik/cyfrowe_072025v1.pdf)  
 
 ##### Inne produkty producenta
 
@@ -142,6 +144,55 @@ Razem: 8 720,14 zł
 Obsługa więcej niż jednego przycisku wymaga doprowadzenia dodatkowych przewodów.  
 
 #### Hikvision IP — IP (PoE) audio/wideo  
+
+##### Producent
+
+Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomofonii; szeroka dostępność części i wsparcie techniczne w Polsce; łatwa integracja z CCTV tej marki oraz mobilną aplikacją Hik‑Connect.  
+
+##### Model i seria
+
+**Seria Pro (IP, PoE)** to modułowy system wideodomofonowy, przeznaczony do nowoczesnych instalacji.  
+
+##### Zalety rozwiązania
+- Wysoka jakość obrazu i dźwięku dzięki technologii IP.  
+- Możliwość integracji z innymi systemami bezpieczeństwa (np. monitoring CCTV Hikvision).  
+- Łatwe skalowanie – dodawanie kolejnych modułów i lokali bez ingerencji w całą instalację.  
+- Prosta wymiana uszkodzonych elementów – każdy moduł działa niezależnie.  
+- Obsługa aplikacji mobilnej Hik-Connect umożliwia odbieranie rozmów na smartfonie.  
+- Zasilanie PoE – jeden przewód wystarcza do transmisji danych i zasilania urządzeń.  
+
+##### Wady rozwiązania
+- Wyższy koszt początkowy niż w przypadku systemów 2-żyłowych.  
+- Wymaga stabilnej sieci Ethernet i switcha PoE — awaria zasilania sieciowego wpływa na wiele urządzeń.  
+- Zależność od jednego producenta (ograniczona kompatybilność z urządzeniami innych marek).  
+
+##### Linki
+
+- [Strona producenta](https://www.hikvision.com/pl/)  
+- [Strona produktu](https://www.hikvision.com/pl/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kd8003-ime1-b-----surface-eu/)  
+- [Lista produktów]([https://www.laskomex.com.pl/produkty/produkty.php](https://www.hikvision.com/pl/products/Video-Intercom-Products/))  
+- [Karty katalogowe]()  
+- [Cennik producenta]()  
+
+##### Inne produkty producenta
+
+W trakcie tworzenia.
+
+##### Szacowany koszt zakupu i montażu
+
+Ceny poszczególnych elementów systemu:
+
+W trakcie tworzenia.
+
+Przykładowy zestaw:
+
+W trakcie tworzenia.
+
+Razem: W trakcie tworzenia.
+
+##### Uwagi
+
+W trakcie tworzenia.  
 
 #### Cyfral (PC-4000/SMART-D) — 2-żyłowy audio/wideo  
 
