@@ -136,7 +136,7 @@ Przykładowy zestaw:
 | Moduł kamery | KAM-3-1 | 2 | 253,63 zł | 507,26 zł |
 | Unifon | 1131/621 | 0 | 98,40 zł | - zł |
 | Monitor wideodomofonowy | MVC-8151-1 | 8 | 601,47 zł | 4 811,76 zł |
-| Razem | | | | 8 720,14 zł |
+| **Razem** | | | | **8 720,14 zł** |
 
 ##### Uwagi
 
