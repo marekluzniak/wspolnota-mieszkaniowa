@@ -129,7 +129,7 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 
 | Typ materiału | Producent | Nazwa | Opis | Cena | Link do oferty | Uwagi |
 |---|---|---|---|---|---|---|
-| Kabel sieciowy | Lanberg | U/UTP CCA Kat. 6 (305 metrów) | - | 279,99 zł | [Allegro](https://allegro.pl/oferta/kabel-sieciowy-kat-6-cat-6-przewod-skretka-cca-utp-lan-rj45-305m-lanberg-6999452924) | Chyba najtańsza opcja |
+| - | - | - | - | - zł | - | - |
 
 ##### Cennik usługi montażu
 
@@ -231,7 +231,7 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 
 | Typ materiału | Producent | Nazwa | Opis | Cena | Link do oferty | Uwagi |
 |---|---|---|---|---|---|---|
-| Kabel sieciowy | Lanberg | U/UTP CCA Kat. 6 (305 metrów) | - | 279,99 zł | [Allegro](https://allegro.pl/oferta/kabel-sieciowy-kat-6-cat-6-przewod-skretka-cca-utp-lan-rj45-305m-lanberg-6999452924) | Jedna z najtańszych dostępnych opcji |
+| Kabel sieciowy | Lanberg | U/UTP CCA Kat. 6 (305 metrów) | - | 279,99 zł | [Allegro](https://allegro.pl/oferta/kabel-sieciowy-kat-6-cat-6-przewod-skretka-cca-utp-lan-rj45-305m-lanberg-6999452924) | Opcja budżetowa |
 
 ##### Cennik usługi montażu
 
