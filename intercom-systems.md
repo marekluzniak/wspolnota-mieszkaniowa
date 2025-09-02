@@ -1,74 +1,94 @@
 # Systemy domofonowe
 
-Strona zawiera informacje zebrane w celu wyboru najlepszego systemu domofonowego dostosowanego do naszych potrzeb.
+Dokument przedstawia analizę dostępnych rozwiązań w zakresie systemów domofonowych.  
+Celem opracowania jest wybór najlepszego rozwiązania, które zapewni bezpieczeństwo, wygodę i trwałość na lata.
+
+---
 
 ## Aktualny system domofonowy
 
-Obecnie korzystamy z centrali **Laskomex CD-250** i unifonów **Laskomex LM-8W-6**.  
-Jest to **cyfrowa centrala domofonowa** (tzw. system magistralowy), która do komunikacji z lokatorami wykorzystuje **dwuprzewodową linię cyfrową**. W praktyce oznacza to, że cała instalacja działa na jednej wspólnej magistrali, a każdy unifon jest identyfikowany przez przypisany mu numer.  
-System umożliwia wyłącznie **rozmowę głosową z osobą przy wejściu** oraz **zdalne otwarcie drzwi**.  
+Obecnie w budynku funkcjonuje centrala **Laskomex CD-250** wraz z unifonami **Laskomex LM-8W-6**.  
+Jest to **cyfrowy system magistralowy**, w którym komunikacja opiera się na dwuprzewodowej linii cyfrowej. Wszystkie unifony korzystają ze wspólnej magistrali, a identyfikacja odbywa się poprzez przypisany numer lokalu.  
 
-Choć rozwiązanie to jest stabilne i proste w obsłudze, jego funkcjonalność jest mocno ograniczona w porównaniu do dzisiejszych standardów. Brakuje obsługi obrazu i wideorozmów, możliwości łatwej rozbudowy, czy takich fanaberii jak integracja z aplikacją mobilną (np. w celu zdalnego odbierania połączeń czy otwierania drzwi).  
+System umożliwia wyłącznie **rozmowę głosową** oraz **zdalne otwarcie drzwi wejściowych**.  
 
-Technologia CD-250 pojawiła się na rynku około **25 lat temu**. To sprawia, że system jest już przestarzały, a w kolejnych latach jego serwisowanie i utrzymanie mogą stawać się coraz trudniejsze lub kosztowniejsze, z uwagi na ograniczoną dostępność części i nowych urządzeń kompatybilnych.
+Technologia CD-250 pojawiła się na rynku około **25 lat temu**. Choć urządzenia są stabilne i proste w obsłudze, ich funkcjonalność jest mocno ograniczona w porównaniu ze współczesnymi rozwiązaniami. W kolejnych latach utrzymanie systemu może stać się coraz trudniejsze ze względu na malejącą dostępność części i kompatybilnych urządzeń.
+
+---
 
 ## Dlaczego zmiana jest potrzebna?
 
-- Częste awarie powodują wysokie koszty utrzymania aktualnej instalacji domofonowej.  
-- Aktualny system bazuje na technologii sprzed dwóch dekad i ogranicza się wyłącznie do rozmów głosowych.  
-- Brakuje w nim funkcji, które dziś są standardem – wideorozmowy czy elastyczna konfiguracja dostępu.  
-- W przyszłości utrzymanie systemu będzie coraz trudniejsze, a koszty serwisu mogą rosnąć ze względu na wycofywanie starszych modeli z produkcji.  
+- Coraz częstsze awarie powodują wysokie koszty utrzymania obecnej instalacji.  
+- System opiera się na technologii sprzed dwóch dekad, obsługując wyłącznie rozmowy głosowe.  
+- Brakuje funkcji, które obecnie stanowią standard – wideorozmowy, elastyczne opcje dostępu, integracja z nowoczesnymi rozwiązaniami.  
+- Dostępność części będzie stopniowo malała, co w przyszłości może utrudnić naprawy lub całkowicie je uniemożliwić.  
 
-## Cel i założenia
+---
 
-Naszym celem jest wybór trwałego i niezawodnego systemu domofonowego na lata, który sprosta naszym potrzebom i nie będzie wymagał częstych modernizacji.  
+## Wymagania i cele
 
-Założenia:  
-- odblokowywanie drzwi za pomocą kodu oraz odbiorników,  
-- obsługa dwóch wejść w jednym systemie,  
-- wygoda użytkowania i łatwy serwis w regionie.  
+Nowy system domofonowy powinien być trwały, niezawodny i wygodny w codziennym użytkowaniu.  
+Przy wyborze istotne są następujące kryteria:
 
-### Wymagania nowego systemu
+### Wymagania podstawowe
+- Obsługa minimum 8 lokali mieszkalnych  
+- Klawiatura kodowa przy obu wejściach  
+- Możliwość definiowania kodów PIN dedykowanych poszczególnym lokalom  
+- Rozmowy audio z głównym wejściem  
+- Odporność na warunki atmosferyczne (min. IP54)  
+- Wysoka odporność mechaniczna (min. IK7)  
+- Gwarancja min. 24 miesiące oraz dostępność serwisu i części w Polsce przez minimum 10 lat  
 
-Przedstawiona poniżej lista to wymagania, których spełnienie jest niezbędne przez nowy system domofonowy:
+### Funkcje opcjonalne
+- Rozmowy wideo z dowolnym wejściem  
+- Możliwość wyboru urządzeń wyłącznie audio w poszczególnych mieszkaniach  
+- Integracja z aplikacją mobilną (dla chętnych)  
 
-- Obsługa co najmniej 8 lokali mieszkalnych  
-- Posiadanie klawiatury kodowej przy obu wejściach  
-- Możliwość zdefiniowania kodów PIN dedykowanych poszczególnym lokalom mieszkaniowym  
-- Prowadzenie rozmów audio z głównym wejściem  
-- Odporność na warunki atmosferyczne (min. IP54 – deszcz, śnieg, kurz)  
-- Wysoki stopień ochrony przed urazami mechanicznymi (min. IK7)  
-- Gwarancja (min. 24 miesiące, serwis i części dostępne w Polsce przez minimum 10 lat)  
+---
 
-### Opcjonalna funkcjonalność nowego systemu
+## Bezpieczeństwo i wygoda codzienna
 
-Funkcje, które nie są wymagane, ale zwiększą bezpieczeństwo i komfort użytkowania:  
+Przy wyborze nowego systemu szczególną uwagę zwrócono na aspekty bezpieczeństwa i komfortu:
 
-- Prowadzenie rozmów audio i wideo z dowolnym wejściem  
-- Dowolność wyboru urządzeń wspierających wyłącznie audio w poszczególnych lokalach  
-- Integracja z aplikacją mobilną (możliwość odbierania domofonu na smartfonie)  
+- **Bezpieczeństwo**: kamery przy wejściach umożliwiają łatwe rozpoznanie odwiedzających, a solidne panele są odporne na uszkodzenia i akty wandalizmu.  
+- **Łatwe otwieranie drzwi**: dostęp możliwy za pomocą breloka RFID lub kodu PIN – koniec z koniecznością poszukiwania kluczy np. w deszczu lub z zakupami w ręku.  
+- **Wygoda w mieszkaniach**: możliwość zainstalowania dodatkowych unifonów lub monitorów, aby nie trzeba było podchodzić do drzwi przy każdym wywołaniu.  
+- **Dostępność serwisowa**: wybrane systemy mają zapewnioną obsługę i części zamienne w Polsce, co gwarantuje ich długowieczność.  
+- **Elastyczność**: systemy działają w pełni bez dodatkowych aplikacji, ale dla osób zainteresowanych dostępna jest obsługa przez smartfona.  
 
-## Architektura systemu domofonowego
+---
 
-Aktualnie na polskim rynku popularne są trzy rozwiązania:
+## Architektura systemów
 
-### 2-żyłowy system cyfrowy (audio lub wideo)
+Na rynku dominują trzy typy rozwiązań:
 
-Najprostsze i najtańsze rozwiązanie. Najpopularniejsze w budynkach, których instalacje domofonowe były realizowane wiele lat temu.  
-Charakteryzuje się niskim kosztem zakupu i jest kompatybilne z naszym aktualnym okablowaniem.  
+### 1. 2-żyłowy system cyfrowy (audio lub wideo)
+Najprostsze i najtańsze rozwiązanie, często stosowane w starszych budynkach.  
 
-### IP (PoE lub Wi-Fi)
+#### Zalety
+- Niski koszt zakupu  
+- Możliwość wykorzystania istniejącego okablowania  
 
-Rozwiązanie oferujące najwyższą jakość audio i wideo oraz możliwość łatwej rozbudowy.  
-Koszt zakupu jest wyższy niż w przypadku instalacji 2-żyłowej i wymaga okablowania Ethernet (przewód internetowy).  
+#### Wady
+- Ograniczona jakość obrazu i brak nowoczesnych funkcji  
 
-### Hybryda (2-żyłowy + bramka IP)
+### 2. IP (PoE lub Wi-Fi)
+Rozwiązanie nowoczesne, oferujące najwyższą jakość obrazu i dźwięku, a także integrację z innymi systemami bezpieczeństwa.  
 
-Rozwiązanie dla osób chcących zachować proste okablowanie, a jednocześnie dodać do niego funkcje „smart”.  
+#### Zalety
+- Wysoka jakość audio i wideo
+- Łatwa rozbudowa i integracja  
 
-## Propozycje produktów
+#### Wady
+- Wyższy koszt początkowy
+- Konieczność posiadania sieci Ethernet  
 
-Poniżej znajduje się zestawienie sprawdzonych marek i serii dostępnych w Polsce.
+### 3. Hybryda (2-żyłowy + bramka IP)
+Rozwiązanie pośrednie – pozwala korzystać z prostego okablowania, a jednocześnie daje możliwość rozbudowy o funkcje „smart”.
+
+---
+
+## Analiza wybranych systemów
 
 ### Laskomex CD-3100 — 2-żyłowy
 
@@ -77,43 +97,33 @@ Poniżej znajduje się zestawienie sprawdzonych marek i serii dostępnych w Pols
 </div>
 
 #### Producent
-
 Laskomex (PL) — ponad 30 lat na rynku, szeroka baza instalacji referencyjnych; dobry dostęp do części.  
 
 #### Model i seria
+**CD-3100** to rozbudowany system 2-żyłowy, stanowiący następcę starszych central (np. CD-250).  
 
-**CD-3100** to rozbudowany system 2-żyłowy, który stanowi następcę starszych central (np. CD-250).  
+#### Zalety
+- Niższy koszt początkowy niż systemy IP  
+- Możliwość wykorzystania istniejącego okablowania  
+- Stabilna i sprawdzona technologia, szeroko stosowana w Polsce  
+- Łatwo dostępne części i serwis  
+- Prosta obsługa, znana lokalnym instalatorom  
 
-#### Zalety rozwiązania
-- Niższy koszt początkowy niż systemy IP.  
-- Możliwość wykorzystania istniejącego okablowania 2-żyłowego, bez konieczności kładzenia nowych przewodów Ethernet.  
-- Stabilna i sprawdzona technologia, stosowana od wielu lat w budynkach wielorodzinnych.  
-- Szeroka baza instalacji referencyjnych i łatwa dostępność części w Polsce.  
-- Prosta obsługa i konserwacja – dobrze znana lokalnym instalatorom.  
-
-#### Wady rozwiązania
-- Technologia 2-żyłowa, choć tańsza, jest już rozwiązaniem przestarzałym i nie daje pełnej elastyczności i rozbudowy jak systemy IP.  
-- Obraz wideo (przy zastosowaniu monitorów) ma ograniczoną jakość w porównaniu do systemów IP (niższa rozdzielczość, mniejsza płynność).  
-- Architektura magistralowa oznacza, że awaria linii głównej może powodować problemy w całym pionie lub większej liczbie mieszkań.  
-- Wiele dodatkowych funkcji wymaga dodatkowych modułów, które znacząco podnoszą koszt.  
-- Zależność od jednego producenta – ograniczone możliwości łączenia elementów z urządzeniami innych firm.  
-
-W porównaniu do CD-250 oferuje szerszą gamę urządzeń końcowych, w tym monitory wideodomofonowe, oraz łatwiejszą integrację z modułami dodatkowych funkcji.
+#### Wady
+- Technologia przestarzała, ograniczona funkcjonalność  
+- Niższa jakość obrazu niż w systemach IP  
+- Awaria linii magistralnej wpływa na wielu użytkowników jednocześnie  
+- Dodatkowe funkcje wymagają modułów, co podnosi koszty  
+- Zależność od jednego producenta  
 
 #### Linki
-
 - [Strona producenta](https://www.laskomex.com.pl/)  
 - [Strona produktu](https://www.laskomex.com.pl/produkty/domofony-cyfrowe.php)  
 - [Lista produktów](https://www.laskomex.com.pl/produkty/produkty.php)  
 - [Karty katalogowe](https://www.laskomex.com.pl/karty-katalogowe.php)  
 - [Cennik producenta](https://www.laskomex.com.pl/cennik/cyfrowe_072025v1.pdf)  
 
-#### Szacowany koszt zakupu i montażu
-
-Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
-
-##### Cennik podzespołów
-
+#### Popularne elementy zestawu
 | Typ podzespołu | Nazwa podzespołu | Alarm-Tech | EC System | Allegro |
 |---|---|---|---|---|
 | Panel zewnętrzny | CP-3113R INOX RFID | 1 353,00 zł | 1 353,00 zł | - zł |
@@ -123,88 +133,59 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Unifon | 1131/621 | 98,40 zł | 98,40 zł | - zł |
 | Monitor wideodomofonowy | MVC-8151-1 | 601,47 zł | 750,30 zł | 708,52 zł |
 
-###### Nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
-
-##### Cennik materiałów montażowych
-
-| Typ materiału | Producent | Nazwa | Opis | Cena | Link do oferty | Uwagi |
-|---|---|---|---|---|---|---|
-| - | - | - | - | - zł | - | - |
-
-##### Cennik usługi montażu
-
-| Nazwa usługi | Opis | Cena | Uwagi |
-|---|---|---|---|
-| - | - | - zł | - |
-
-##### Cennik serwisu
-
-| Nazwa usługi | Opis | Cena | Uwagi |
-|---|---|---|---|
-| - | - | - zł | - |
-
-##### Przykładowy zestaw:
-
+#### Przykładowy zestaw (8 lokali, 2 wejścia)
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
 |---|---|---|---|---|
 | Panel zewnętrzny | CP-3113R INOX RFID | 2 | 1 353,00 zł | 2 706,00 zł |
 | Kaseta elektroniki | EC-3100R-2 | 1 | 465,12 zł | 465,12 zł |
-| Zasilacz | TR/B 2303 | 2 | 123,00 zł | 230,00 zł |
+| Zasilacz | TR/B 2303 | 2 | 123,00 zł | 246,00 zł |
 | Moduł kamery | KAM-3-1 | 2 | 253,63 zł | 507,26 zł |
 | Monitor wideodomofonowy | MVC-8151-1 | 8 | 601,47 zł | 4 811,76 zł |
-| **Razem** | | | | **8 720,14 zł** |
+| **Razem** | | | | **8 736,14 zł** |
 
 #### Inne produkty producenta
-
 - CD-4000  
 - Bastion Gemini 2-wire IP  
 
 #### Uwagi
-
 Obsługa więcej niż jednego przycisku wymaga doprowadzenia dodatkowych przewodów.  
 
-### Hikvision IP II generacji — IP (PoE)  
+---
+
+### Hikvision IP II generacji — IP (PoE)
 
 <div align="center">
   <img src="./images/hikvision-ds-kd8003-ime1.png" alt="Hikvision IP" height="320px" />
 </div>
 
 #### Producent
-
-Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomofonii; szeroka dostępność części i wsparcie techniczne w Polsce; łatwa integracja z CCTV tej marki oraz mobilną aplikacją Hik‑Connect.  
+Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomofonii; szeroka dostępność części i serwisu w Polsce; możliwość integracji z CCTV i aplikacją Hik-Connect.  
 
 #### Model i seria
+**Seria IP II generacji (PoE)** — nowoczesny system wideodomofonowy w architekturze modułowej.  
 
-**Seria IP II generacji (PoE)** to modułowy system wideodomofonowy, przeznaczony do nowoczesnych instalacji.  
+#### Zalety
+- Bardzo dobra jakość obrazu i dźwięku  
+- Możliwość integracji z monitoringiem wizyjnym  
+- Łatwa rozbudowa i elastyczność konfiguracji  
+- Każdy moduł działa niezależnie, prosta wymiana w razie awarii  
+- Dostępna aplikacja mobilna (dla chętnych)  
+- Jeden przewód Ethernet (PoE) zapewnia transmisję i zasilanie  
 
-#### Zalety rozwiązania
-- Wysoka jakość obrazu i dźwięku dzięki technologii IP.  
-- Możliwość integracji z innymi systemami bezpieczeństwa (np. monitoring CCTV Hikvision).  
-- Łatwe skalowanie – dodawanie kolejnych modułów i lokali bez ingerencji w całą instalację.  
-- Prosta wymiana uszkodzonych elementów – każdy moduł działa niezależnie.  
-- Obsługa aplikacji mobilnej Hik-Connect umożliwia odbieranie rozmów na smartfonie.  
-- Zasilanie PoE – jeden przewód wystarcza do transmisji danych i zasilania urządzeń.  
-
-#### Wady rozwiązania
-- Wyższy koszt początkowy niż w przypadku systemów 2-żyłowych.  
-- Wymaga stabilnej sieci Ethernet i switcha PoE — awaria zasilania sieciowego wpływa na wiele urządzeń.  
-- Zależność od jednego producenta (ograniczona kompatybilność z urządzeniami innych marek).  
+#### Wady
+- Wyższy koszt początkowy niż systemy 2-żyłowe  
+- Wymaga stabilnej sieci Ethernet  
+- Zależność od jednego producenta  
 
 #### Linki
-
 - [Strona producenta](https://www.hikvision.com/pl/)  
 - [Strona produktu](https://www.hikvision.com/pl/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kd8003-ime1-b-----surface-eu/)  
 - [Lista produktów](https://www.hikvision.com/pl/products/Video-Intercom-Products/)  
 - [Karty katalogowe](https://www.hikvision.com/pl/support/download/regional-support/)  
-- [Broszura (PDF)](https://www.hikvision.com/content/dam/hikvision/eu/support/brochures/product-brochure/2nd-Generation-IP-Video-Intercom-System-New-Aug.-2022.pdf)  
+- [Broszura](https://www.hikvision.com/content/dam/hikvision/eu/support/brochures/product-brochure/2nd-Generation-IP-Video-Intercom-System-New-Aug.-2022.pdf)  
 - [Cennik firmy Alarm-Tech](https://www.napad.pl/cenniki/cennik-hikvision-systemy-wideodomofonowe,49.xlsx)  
 
-#### Szacowany koszt zakupu i montażu
-
-Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
-
-##### Cennik podzespołów
-
+#### Popularne elementy zestawu
 | Typ podzespołu | Nazwa podzespołu | Alarm-Tech | EC System | Allegro |
 |---|---|---|---|---|
 | Moduł stacji bramowej | DS-KD8003-IME1(B) | 968,26 zł | 965,55 zł | 549,00 zł |
@@ -221,32 +202,7 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Monitor wideodomofonowy | DS-KH9310-WTE1(B) | 2 249,67 zł | 1 793,34 zł | 997,00 zł |
 | Monitor wideodomofonowy | DS-KH9510-WTE1(B) | 2 826,54 zł | 2 554,71 zł | 1 139,00 zł |
 
-###### Nie wszystkie podzespoły są wymagane do uzyskania podstawowej funkcjonalności systemu.
-
-###### Ceny pochodzące z firmy Alarm-Tech mogą się różnić od dostępnych na ich stronie internetowej, gdyż w ofercie cenowej 44204/GŁ/09/2025 zastosowali rabat w wysokości 20%.
-
-###### Na Allegro dostępnych jest wiele zamienników orygilanych części. Przykładowo: moduł czytnika kart i ramka podtynkowa za 154,99 zł.
-
-##### Cennik materiałów montażowych
-
-| Typ materiału | Producent | Nazwa | Opis | Cena | Link do oferty | Uwagi |
-|---|---|---|---|---|---|---|
-| Kabel sieciowy | Lanberg | U/UTP CCA Kat. 6 (305 metrów) | - | 279,99 zł | [Allegro](https://allegro.pl/oferta/kabel-sieciowy-kat-6-cat-6-przewod-skretka-cca-utp-lan-rj45-305m-lanberg-6999452924) | Opcja budżetowa |
-
-##### Cennik usługi montażu
-
-| Nazwa usługi | Opis | Cena | Uwagi |
-|---|---|---|---|
-| - | - | - zł | - |
-
-##### Cennik serwisu
-
-| Nazwa usługi | Opis | Cena | Uwagi |
-|---|---|---|---|
-| - | - | - zł | - |
-
-##### Przykładowy zestaw 1:
-
+#### Przykładowy zestaw 1 (8 lokali, 2 wejścia, tańsze odbiorniki)
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
 |---|---|---|---|---|
 | Moduł stacji bramowej | DS-KD8003-IME1(B) | 2 | 549,00 zł | 1 098,00 zł |
@@ -256,8 +212,7 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Monitor wideodomofonowy | DS-KH6220-LE1 | 8 | 445,00 zł | 3 560,00 zł |
 | **Razem** | | | | **6 402,78 zł** |
 
-##### Przykładowy zestaw 2:
-
+#### Przykładowy zestaw 2 (8 lokali, 2 wejścia, nowsze odbiorniki)
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
 |---|---|---|---|---|
 | Moduł stacji bramowej | DS-KD8003-IME1(B) | 2 | 549,00 zł | 1 098,00 zł |
@@ -267,26 +222,256 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 | Monitor wideodomofonowy | DS-KH6320-WTE1 | 8 | 735,00 zł | 5 880,00 zł |
 | **Razem** | | | | **8 722,78 zł** |
 
-#### Inne produkty producenta
+#### Uwagi
+- Ceny podane w tabelach pochodzą z oferty firmy Alarm-Tech, w której zastosowano dodatkowy rabat (oferta nr 44204/GŁ/09/2025). Mogą one różnić się od cen widocznych bezpośrednio na stronie producenta i u innych dystrybutorów.  
+- Na rynku (np. na Allegro) dostępne są również tańsze odpowiedniki niektórych elementów, takich jak moduły czy ramki podtynkowe. Przykładowo: moduł czytnika kart wraz z ramką dostępny jest w cenie ok. 154,99 zł.  
 
-W trakcie tworzenia.
+---
+
+### ACO (CDN / Inspiro) — 2-żyłowy audio/wideo + bramka acoGO!
+
+#### Producent
+ACO (PL) — polski producent, znany i ceniony w budownictwie wielorodzinnym; szeroka dostępność części i serwisu w Polsce.
+
+#### Model i seria
+**CDN** oraz **Inspiro** — systemy 2-żyłowe, umożliwiające obsługę audio i wideo, z opcjonalną bramką **acoGO!** pozwalającą na obsługę przez aplikację mobilną.
+
+#### Zalety
+- Popularny i sprawdzony system w Polsce.  
+- Możliwość pracy na okablowaniu 2-żyłowym.  
+- Obsługa audio i wideo.  
+- Opcjonalna bramka acoGO! dla integracji ze smartfonem.  
+- Wysoka dostępność serwisu i części.  
+
+#### Wady
+- Jakość obrazu i dźwięku niższa niż w systemach IP.  
+- Rozbudowa ograniczona w porównaniu do IP.  
+- Koszt bramki acoGO! podnosi cenę instalacji.  
+- Architektura magistralowa (awaria linii wpływa na wiele lokali).  
+
+#### Linki
+- [Strona producenta](https://www.aco.com.pl/)  
+- [ACO Inspiro](https://www.aco.com.pl/pl/domofony-inspiro)  
+- [ACO CDN](https://www.aco.com.pl/pl/domofony-cdn)  
 
 #### Uwagi
+System bardzo popularny w Polsce, dobry kompromis między prostotą a funkcjonalnością.
 
-W trakcie tworzenia.  
+---
 
-### Cyfral (PC-4000/SMART-D) — 2-żyłowy audio/wideo  
+### Urmet (2Voice / Matibus SE) — 2-żyłowy audio/wideo
 
-### Elfon Optima (OP-255R) — 2-żyłowy audio  
+#### Producent
+Urmet (IT) — włoski producent, od dziesięcioleci obecny w Polsce; znana marka w segmencie domofonów i wideodomofonów.
 
-### ACO (CDN / Inspiro) — 2-żyłowy audio/wideo + bramka acoGO!  
+#### Model i seria
+**2Voice** oraz **Matibus SE** — systemy 2-żyłowe audio/wideo stosowane w budynkach wielorodzinnych.
 
-### Urmet (2Voice / Matibus SE) — 2-żyłowy audio/wideo  
+#### Zalety
+- Duża rozpoznawalność marki, częste instalacje w Polsce.  
+- Stabilny system 2-żyłowy audio/wideo.  
+- Obsługa wielu lokali i wejść.  
+- Dobra dostępność części i serwisu.  
 
-### Vidos Duo — 2-żyłowy wideo  
+#### Wady
+- Ograniczona elastyczność i skalowanie w porównaniu do IP.  
+- Niższa jakość obrazu niż w systemach IP.  
+- Wyższy koszt w porównaniu do prostych systemów 2-żyłowych (np. Cyfral).  
 
-### Dahua IP — IP (PoE) wideo  
+#### Linki
+- [Strona producenta](https://www.urmet.com/)  
+- [Urmet Polska](https://urmetpolska.pl/)  
 
-### 2N Helios IP Verso — IP  
+#### Uwagi
+Popularny wybór w kamienicach i blokach; solidne rozwiązanie, choć mniej nowoczesne niż IP.
 
-### Fermax MEET — IP  
+---
+
+### Cyfral (PC-4000 / SMART-D) — 2-żyłowy audio/wideo
+
+#### Producent
+Cyfral (PL) — polski producent, specjalizujący się w prostych i niedrogich systemach dla budownictwa wielorodzinnego.
+
+#### Model i seria
+**PC-4000** oraz **SMART-D** — systemy 2-żyłowe, obsługujące audio i wideo.
+
+#### Zalety
+- Niski koszt zakupu.  
+- Obsługa istniejącego okablowania 2-żyłowego.  
+- Łatwa instalacja i konfiguracja.  
+- Polski producent z dostępnością części.  
+
+#### Wady
+- Ograniczona funkcjonalność względem IP.  
+- Mniejsza elastyczność rozbudowy.  
+- Jakość obrazu niższa niż w systemach IP.  
+- Mniej nowoczesny design urządzeń.  
+
+#### Linki
+- [Strona producenta](https://www.cyfral.pl/)  
+
+#### Uwagi
+Rozwiązanie budżetowe, dobre dla prostych instalacji.
+
+---
+
+### Vidos Duo — 2-żyłowy wideo
+
+#### Producent
+Vidos (CN/PL dystrybucja) — marka oferująca wideodomofony 2-żyłowe i IP, dostępna w wielu sklepach w Polsce.
+
+#### Model i seria
+**Vidos Duo** — system 2-żyłowy wideodomofonowy, przeznaczony do budynków jedno- i wielorodzinnych.
+
+#### Zalety
+- Atrakcyjny koszt w porównaniu do innych systemów wideo.  
+- Obsługa okablowania 2-żyłowego.  
+- Dostępne różne modele monitorów i paneli.  
+- Popularność w Polsce, szeroka dystrybucja.  
+
+#### Wady
+- Brak pełnej integracji z aplikacjami mobilnymi (dodatkowe moduły wymagane).  
+- Niższa jakość obrazu niż IP.  
+- Ograniczona elastyczność rozbudowy.  
+
+#### Linki
+- [Strona producenta](https://vidos.pl/)  
+
+#### Uwagi
+System średniopółkowy, chętnie wybierany w mniejszych wspólnotach.
+
+---
+
+### Dahua IP — IP (PoE) wideo
+
+#### Producent
+Dahua (CN) — jeden z największych producentów systemów bezpieczeństwa na świecie; bezpośredni konkurent Hikvision.
+
+#### Model i seria
+**Dahua IP** — system wideodomofonowy IP zasilany PoE, z bogatą ofertą monitorów i modułów.
+
+#### Zalety
+- Wysoka jakość obrazu i dźwięku.  
+- Integracja z systemami CCTV Dahua.  
+- Łatwa rozbudowa i elastyczność konfiguracji.  
+- Duży wybór monitorów i akcesoriów.  
+
+#### Wady
+- Wyższy koszt początkowy niż systemy 2-żyłowe.  
+- Zależność od jednego producenta.  
+- Wymaga sieci Ethernet.  
+
+#### Linki
+- [Strona producenta](https://www.dahuasecurity.com/)  
+
+#### Uwagi
+Alternatywa dla Hikvision, o zbliżonej funkcjonalności i cenach.
+
+---
+
+### Fermax MEET — IP
+
+#### Producent
+Fermax (ES) — hiszpański producent, od lat obecny w Polsce, specjalizujący się w systemach wideodomofonowych.
+
+#### Model i seria
+**MEET** — system wideodomofonowy IP, zasilany PoE, z zaawansowanymi funkcjami.
+
+#### Zalety
+- Profesjonalny system IP.  
+- Wysoka jakość obrazu i dźwięku.  
+- Nowoczesny design urządzeń.  
+- Integracja z aplikacją mobilną.  
+
+#### Wady
+- Wyższy koszt niż systemy 2-żyłowe.  
+- Mniejsza popularność w Polsce niż Hikvision czy Dahua → mniejsza dostępność części.  
+- Wymaga instalatora z doświadczeniem w IP.  
+
+#### Linki
+- [Strona producenta](https://www.fermax.com/)  
+
+#### Uwagi
+Rozwiązanie klasy średniej/wyższej, dobre dla wymagających instalacji.
+
+---
+
+### 2N Helios IP Verso — IP
+
+#### Producent
+2N (CZ, część grupy Axis) — czeski producent, specjalizujący się w systemach klasy premium, z integracją z systemami kontroli dostępu.
+
+#### Model i seria
+**Helios IP Verso** — modułowy system wideodomofonowy IP, stosowany w biurowcach i prestiżowych inwestycjach.
+
+#### Zalety
+- Bardzo wysoka jakość wykonania.  
+- Modułowa konstrukcja, łatwa rozbudowa.  
+- Integracja z systemami kontroli dostępu i CCTV.  
+- Długoterminowe wsparcie producenta.  
+
+#### Wady
+- Wysoka cena (rozwiązanie premium).  
+- Zależność od jednego producenta.  
+- Mniejsza popularność w budynkach mieszkalnych (bardziej w biurowcach).  
+
+#### Linki
+- [Strona producenta](https://www.2n.com/)  
+
+#### Uwagi
+Rozwiązanie klasy premium, raczej poza zakresem budżetu wspólnot mieszkaniowych.
+
+---
+
+### Elfon Optima (OP-255R) — 2-żyłowy audio
+
+#### Producent
+Elfon (PL) — polski producent domofonów, mniej znany niż ACO czy Laskomex, ale obecny na rynku od lat.
+
+#### Model i seria
+**Optima (OP-255R)** — prosty system 2-żyłowy audio.
+
+#### Zalety
+- Polski producent, łatwa dostępność części.  
+- Niska cena w porównaniu z systemami wideo.  
+- Prosta obsługa i montaż.  
+- Stabilne działanie w prostych instalacjach.  
+
+#### Wady
+- Brak obsługi wideo.  
+- Ograniczona funkcjonalność w porównaniu do nowoczesnych systemów.  
+- Mała rozpoznawalność marki w porównaniu z ACO czy Urmet.  
+
+#### Linki
+- [Strona producenta](https://www.elfon.com.pl/)  
+
+#### Uwagi
+System niszowy, odpowiedni głównie dla prostych instalacji audio.
+
+---
+
+## Podsumowanie
+
+Analiza dostępnych systemów wskazuje, że wybór nowego rozwiązania powinien być podyktowany przede wszystkim **bezpieczeństwem, wygodą i długowiecznością**.  
+Oba rozpatrywane systemy spełniają podstawowe wymagania, jednak różnią się poziomem nowoczesności i kosztami.  
+
+- **Laskomex CD-3100**: tańsze rozwiązanie, wykorzystujące istniejące okablowanie, dobrze znane instalatorom.  
+- **Hikvision IP II generacji**: nowoczesny system o wyższej jakości obrazu, z możliwością rozbudowy i integracji z innymi systemami.  
+
+Ostateczny wybór powinien uwzględniać **równowagę między kosztami a oczekiwaniami mieszkańców**.  
+
+---
+
+## Najczęściej zadawane pytania (FAQ)
+
+- **Czy będziemy musieli korzystać z aplikacji na telefonie?**  
+  Nie, aplikacja to tylko opcja dla zainteresowanych. System działa w pełni także bez niej.  
+
+- **Czy trzeba będzie wymieniać wszystkie przewody w budynku?**  
+  W przypadku systemu IP potrzebne są przewody Ethernet, natomiast system 2-żyłowy może korzystać z obecnej instalacji.  
+
+- **Czy obsługa będzie skomplikowana?**  
+  Nie, otwieranie drzwi możliwe jest za pomocą kodu PIN, breloka RFID lub przycisku na unifonie/monitorze.  
+
+- **Czy serwis będzie łatwo dostępny?**  
+  Tak, oba systemy mają zapewnioną obsługę i części zamienne w Polsce.  
