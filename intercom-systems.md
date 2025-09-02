@@ -193,17 +193,17 @@ Wszystkie podane ceny są cenami brutto (zawierają podatek VAT).
 
 | Typ podzespołu | Nazwa podzespołu | Alarm-Tech | EC System | Allegro |
 |---|---|---|---|---|
-| Moduł stacji bramowej | DS-KD8003-IME1(B) | 968,26 zł | ??? zł | 549,00 zł |
-| Moduł klawiatury | DS-KD-KP | 656,33 zł | ??? zł | 362,99 zł |
-| Moduł czytnika kart | DS-KD-M | 405,41 zł | ??? zł | 248,99 zł |
-| Ramka podtynkowa | DS-KD-ACF2 | ??? zł | ??? zł | 159,90 zł |
-| Ramka podtynkowa | DS-KD-ACF3 | ??? zł | ??? zł | 209,98 zł |
-| Switch | DS-3E0318P-E/M(C) | 1 007,62 zł | ??? zł | 699,00 zł |
-| Unifon | DS-KH6000-E1 | 307,01 zł | ??? zł | ??? zł |
+| Moduł stacji bramowej | DS-KD8003-IME1(B) | 968,26 zł | 965,55 zł | 549,00 zł |
+| Moduł klawiatury | DS-KD-KP | 656,33 zł | 655,59 zł | 362,99 zł |
+| Moduł czytnika kart | DS-KD-M | 405,41 zł | 404,67 zł | 248,99 zł |
+| Ramka podtynkowa | DS-KD-ACF2 | 713,40 zł | 270,60 zł | 159,90 zł |
+| Ramka podtynkowa | DS-KD-ACF3 | 337,51 zł | 335,79 zł | 209,98 zł |
+| Switch | DS-3E0318P-E/M(C) | 1 007,62 zł | - zł | 699,00 zł |
+| Unifon | DS-KH6000-E1 | 307,01 zł | - zł | - zł |
 | Monitor wideodomofonowy | DS-KH6100-E1 | 490,03 zł | - zł | - zł |
 | Monitor wideodomofonowy | DS-KH6220-LE1 | - zł | 445,00 zł | 776,53 zł |
 | Monitor wideodomofonowy | DS-KH6320-WTE1 | 1 517,82 zł | 1 303,80 zł | 735,00 zł |
-| Monitor wideodomofonowy | DS-KH8520-WTE1 | 2 364,06 zł | ??? zł | 1 318,00 zł |
+| Monitor wideodomofonowy | DS-KH8520-WTE1 | 2 364,06 zł | - zł | 1 318,00 zł |
 | Monitor wideodomofonowy | DS-KH9310-WTE1(B) | 2 249,67 zł | 1 793,34 zł | 997,00 zł |
 | Monitor wideodomofonowy | DS-KH9510-WTE1(B) | 2 826,54 zł | 2 554,71 zł | 1 139,00 zł |
 
