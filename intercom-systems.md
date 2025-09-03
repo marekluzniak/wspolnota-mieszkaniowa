@@ -254,6 +254,69 @@ Dzięki takiej konfiguracji nowy system nie tylko pozwala na wygodne otwieranie 
 
 ---
 
+### Ubiquiti UniFi G3 Intercom — IP (PoE)
+
+<div align="center">
+  <img src="./images/ubiquiti-g3-intercom.png" alt="Ubiquiti G3 Intercom" height="320px" />
+</div>
+
+#### Producent
+Ubiquiti (USA) — ceniony zwłaszcza w środowiskach IT i instalacjach sieciowych; ekosystem UniFi pozwala scentralizować zarządzanie siecią, monitoringiem i kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dzięki popularności tej marki.  
+
+#### Model i seria
+**G3 Intercom** — nowoczesny wideodomofon IP z dotykowym ekranem i kamerą HD, zaprojektowany do pracy w ramach ekosystemu UniFi Access.  
+
+#### Zalety
+- Bardzo wysoka jakość obrazu i dźwięku (kamera 5 MP, szeroki kąt, dwukierunkowe audio)  
+- Ekran dotykowy 7″ z katalogiem lokatorów i możliwością wpisywania PIN-ów  
+- Obsługa wielu metod dostępu: NFC (MIFARE/DESFire), PIN, kod QR, mobilne klucze (Apple Wallet, Google Wallet, UniFi Identity)  
+- Integracja z siecią UniFi i systemami monitoringu tego producenta  
+- Prosta rozbudowa systemu  
+- Zasilanie PoE — jeden przewód Ethernet zapewnia dane i energię  
+
+#### Wady
+- Wyższy koszt początkowy niż w systemach 2-żyłowych  
+- Wymaga pełnej infrastruktury UniFi Access (Access Hub, switch PoE, okablowanie Ethernet)  
+- Mniejsza dostępność instalatorów specjalizujących się w tym systemie w Polsce niż w przypadku Hikvision  
+
+#### Linki
+- [Strona producenta](https://ui.com/us/pl)  
+- [Strona produktu](https://eu.store.ui.com/eu/en/category/door-access-readers/collections/access-intercom/products/ua-g3-intercom?variant=ua-g3-intercom)  
+- [Lista produktów](https://www.ui.com/us/pl/physical-security/door-access/intercoms)  
+
+#### Popularne elementy zestawu
+| Typ podzespołu | Nazwa podzespołu | Alarm-Tech | EC System | Allegro |
+|---|---|---|---|---|
+| - | - | - zł | - zł | - zł |
+| - | - | - zł | - zł | - zł |
+| - | - | - zł | - zł | - zł |
+
+#### Przykładowy zestaw 1 (8 lokali, 2 wejścia, tańsze odbiorniki)
+| Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
+|---|---|---|---|---|
+| - | - | - | - zł | - zł |
+| - | - | - | - zł | - zł |
+| - | - | - | - zł | - zł |
+| **Razem** | | | | **- zł** |
+
+#### Przykładowy zestaw 2 (8 lokali, 2 wejścia, nowsze odbiorniki)
+| Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt |
+|---|---|---|---|---|
+| - | - | - | - zł | - zł |
+| - | - | - | - zł | - zł |
+| - | - | - | - zł | - zł |
+| **Razem** | | | | **- zł** |
+
+#### Kontrola domknięcia drzwi
+
+Ubiquiti Access Hub umożliwia podłączenie czujników otwarcia drzwi (door contact). Do współpracy można zastosować elektrozaczepy monitorowane (np. **Bira Hartte XS12UM**), które wysyłają sygnał o pozycji języka do kontrolera. System rejestruje każde niedomknięcie drzwi i może uruchamiać alarmy, powiadomienia w aplikacji UniFi Identity lub zapisywać zdarzenie w logach.  
+
+#### Uwagi
+- System Ubiquiti jest stosunkowo nowy na polskim rynku wideodomofonów, dlatego dostępność instalatorów i serwisu może być mniejsza niż w przypadku Hikvision.  
+- Atutem jest możliwość używania **mobilnych kluczy (Apple Wallet, Google Wallet)**, co czyni go jednym z bardziej nowoczesnych rozwiązań dla budynków wielorodzinnych.  
+
+---
+
 ### ACO (CDN / Inspiro) — 2-żyłowy audio/wideo + bramka acoGO!
 
 #### Producent
