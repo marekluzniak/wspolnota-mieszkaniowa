@@ -219,6 +219,35 @@ Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomo
 | Monitor wideodomofonowy | DS-KH6320-WTE1 | 8 | 735,00 zł | 5 880,00 zł |
 | **Razem** | | | | **8 722,78 zł** |
 
+#### Bezpieczeństwo – kontrola domknięcia drzwi
+
+Jednym z najważniejszych elementów bezpieczeństwa jest pewność, że drzwi wejściowe zostały prawidłowo zamknięte po każdym użyciu.  
+Aby to osiągnąć, w proponowanym rozwiązaniu zastosowany może być **elektrozaczep Bira Hartte XS12UM** – nowoczesny model o wąskiej konstrukcji, wyposażony w funkcję **monitorowania pozycji języka**.  
+
+##### Elektrozaczep Bira Hartte XS12UM
+- Wąski (standard „XS”) – umożliwia montaż nawet w drzwiach o ograniczonej przestrzeni w futrynie.  
+- Zasilanie 12 V AC/DC, z niskim poborem prądu.  
+- Wbudowany **mikroprzełącznik monitorujący** pozycję języka – pozwala stwierdzić, czy drzwi zostały faktycznie domknięte.  
+- Konstrukcja zapewnia wysoką odporność mechaniczną i trwałość w codziennym użytkowaniu.  
+- Dobrze współpracuje z systemami kontroli dostępu i wideodomofonami Hikvision.  
+
+Dzięki takiemu rozwiązaniu system może nie tylko sterować otwieraniem drzwi, ale także **sygnalizować, gdy drzwi pozostają uchylone**.
+
+##### Warystor – ochrona elektroniki
+Podczas pracy elektrozaczepu, szczególnie przy zasilaniu cewki, mogą powstawać przepięcia elektryczne (tzw. szpilki). Aby chronić zarówno elektrozaczep, jak i moduły domofonowe, zaleca się zastosowanie **warystora** montowanego równolegle do cewki.  
+- Rekomendowany model: **MOV-14D180K** (18 V, średnica 14 mm).  
+- Działanie: pochłania nagłe skoki napięcia powyżej wartości progowej, zapobiegając uszkodzeniom.  
+- Koszt elementu to kilka złotych, a znacząco wydłuża żywotność całego układu.  
+
+##### Konfiguracja wideodomofonu Hikvision
+Panel DS-KD8003-IME1(B) posiada wejścia alarmowe (AIN1, AIN2), które można skonfigurować jako „door contact”.  
+1. **Podłączenie**: styk monitorujący elektrozaczepu XS12UM należy podłączyć do wejścia AIN1.  
+2. **Ustawienia w menu**: w aplikacji konfiguracyjnej lub w iVMS-4200 wybiera się typ wejścia = *door contact*.  
+3. **Czas alarmu**: system umożliwia ustawienie zwłoki alarmu – np. 15 lub 30 sekund. Dzięki temu alarm uruchamia się dopiero wtedy, gdy drzwi pozostają uchylone dłużej niż określony czas.  
+4. **Reakcja systemu**: możliwe jest uruchomienie sygnału dźwiękowego w panelu, komunikatu na monitorach lokatorskich oraz powiadomienia w aplikacji mobilnej (dla chętnych).  
+
+Dzięki takiej konfiguracji nowy system nie tylko pozwala na wygodne otwieranie drzwi, ale również aktywnie dba o to, aby drzwi wejściowe były zawsze zamknięte, a budynek odpowiednio chroniony.
+
 #### Uwagi
 - Ceny podane w tabelach pochodzą z oferty firmy Alarm-Tech, w której zastosowano dodatkowy rabat (oferta nr 44204/GŁ/09/2025). Mogą one różnić się od cen widocznych bezpośrednio na stronie producenta i u innych dystrybutorów.  
 - Na rynku (np. na Allegro) dostępne są również tańsze odpowiedniki niektórych elementów, takich jak moduły czy ramki podtynkowe. Przykładowo: moduł czytnika kart wraz z ramką dostępny jest w cenie ok. 154,99 zł.  
