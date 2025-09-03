@@ -219,10 +219,10 @@ Hikvision (CN) — globalny lider w dziedzinie systemów monitoringu i wideodomo
 | Monitor wideodomofonowy | DS-KH6320-WTE1 | 8 | 735,00 zł | 5 880,00 zł |
 | **Razem** | | | | **8 722,78 zł** |
 
-#### Bezpieczeństwo – kontrola domknięcia drzwi
+#### Kontrola domknięcia drzwi
 
 Jednym z najważniejszych elementów bezpieczeństwa jest pewność, że drzwi wejściowe zostały prawidłowo zamknięte po każdym użyciu.  
-Aby to osiągnąć, w proponowanym rozwiązaniu zastosowany może być **elektrozaczep Bira Hartte XS12UM** – nowoczesny model o wąskiej konstrukcji, wyposażony w funkcję **monitorowania pozycji języka**.  
+Aby to osiągnąć, w proponowanym rozwiązaniu zastosowany może być **elektrozaczep Bira Hartte XS12UM** – model o wąskiej konstrukcji, wyposażony w funkcję **monitorowania pozycji języka**.  
 
 ##### Elektrozaczep Bira Hartte XS12UM
 - Wąski (standard „XS”) – umożliwia montaż nawet w drzwiach o ograniczonej przestrzeni w futrynie.  
@@ -237,7 +237,7 @@ Dzięki takiemu rozwiązaniu system może nie tylko sterować otwieraniem drzwi,
 Podczas pracy elektrozaczepu, szczególnie przy zasilaniu cewki, mogą powstawać przepięcia elektryczne (tzw. szpilki). Aby chronić zarówno elektrozaczep, jak i moduły domofonowe, zaleca się zastosowanie **warystora** montowanego równolegle do cewki.  
 - Rekomendowany model: **MOV-14D180K** (18 V, średnica 14 mm).  
 - Działanie: pochłania nagłe skoki napięcia powyżej wartości progowej, zapobiegając uszkodzeniom.  
-- Koszt elementu to kilka złotych, a znacząco wydłuża żywotność całego układu.  
+- Koszt elementu to kilka/kilkanaście złotych, a znacząco wydłuża żywotność całego układu.  
 
 ##### Konfiguracja wideodomofonu Hikvision
 Panel DS-KD8003-IME1(B) posiada wejścia alarmowe (AIN1, AIN2), które można skonfigurować jako „door contact”.  
