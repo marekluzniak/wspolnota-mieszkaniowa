@@ -92,11 +92,17 @@ Rozwiązanie nowoczesne, oferujące najwyższą jakość obrazu i dźwięku, a t
 - Wyższy koszt początkowy
 - Konieczność posiadania sieci Ethernet
 
+#### Kable internetowe
+
+Lista publicznie dostępnych dokumentów:
+
+- [`Kable internetowe`](./ethernet-cables.md)
+
+---
+
 ### 3. Hybryda (2-żyłowy + bramka IP)
 
 Rozwiązanie pośrednie – pozwala korzystać z prostego okablowania, a jednocześnie daje możliwość rozbudowy o funkcje „smart”.
-
----
 
 ## Analiza wybranych systemów
 
