@@ -47,7 +47,33 @@ Celem opracowania jest wybór rozwiązania zapewniającego wymaganą wydajność
 – **Cena**: cena brutto za oferowaną długość.  
 – **Cena za 1 m**: koszt jednego metra kabla.
 
-## Ranking kabli internetowych od najlepszego do najgorszego
+### Typy ekranowania kabli internetowych
+
+Przy doborze kabla do systemu wideodomofonowego IP kluczowe jest ograniczenie zakłóceń elektromagnetycznych (EMI) i zapewnienie stabilnej transmisji wideo oraz
+zasilania PoE.  
+Poniższe zestawienie przedstawia zalety i wady głównych kombinacji ekranowania.
+
+| Typ ekranowania | Konstrukcja                                                | Zastosowanie                                                                       | Zalety                                                                                                                                    | Wady                                                                                                             |
+|-----------------|------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| S/FTP           | Każda para foliowana + oplot całościowy + żyła uziemiająca | Środowiska o wysokim EMI (blisko przewodów elektrycznych, silniki, transformatory) | -  Najlepsza ochrona przed przesłuchami i EMI<br>-  Stabilna transmisja wideo<br>-  Obsługa PoE++ na 100 m<br>-  Minimalne straty sygnału | -  Wyższy koszt<br>-  Mniejsza elastyczność i większa średnica kabla                                             |
+| U/FTP           | Każda para foliowana, brak oplotu                          | Średnio zakłócone instalacje wewnętrzne                                            | -  Dobra ochrona poszczególnych par przed EMI<br>-  Lżejszy i cieńszy niż S/FTP<br>-  Obsługa PoE++                                       | -  Brak dodatkowego oplotu zmniejsza ochronę całościową<br>-  Mniejsze tłumienie zakłóceń całościowych           |
+| FTP             | Oplot całościowy, brak folii na parach                     | Zewnętrzne instalacje, trasy w ziemi lub rurach ochronnych                         | -  Ochrona całego kabla przed EMI<br>-  Prostsza konstrukcja niż S/FTP<br>-  Wersja z PE/żelem odporna na wilgoć                          | -  Brak ochrony pojedynczych par umożliwia przesłuchy między parami<br>-  Mniej skuteczne w silnych źródłach EMI |
+| U/UTP (UTP)     | Brak folii i oplotu                                        | Pomieszczenia o niskim poziomie zakłóceń (biura, korytarze)                        | -  Najtańszy i najelastyczniejszy kabel<br>-  Łatwy montaż i prowadzenie w kanalikach                                                     | -  Brak ekranowania sprzyja przesłuchom i szumom<br>-  Niezalecany w pobliżu przewodów zasilających              |
+
+#### Rekomendacje
+
+- Dla **wideodomofonu IP** narażonego na zakłócenia w instalacji elektrycznej (np. piony antenowe, przewody zasilające, napędy elektryczne) najbezpieczniejszym
+  wyborem jest **S/FTP**. Zapewnia najwyższą jakość obrazu i nieprzerwaną pracę PoE++.
+- Jeśli instalacja przebiega w stosunkowo czystym elektromagnetycznie środowisku (wewnątrz mieszkań, z dala od silników), można rozważyć **U/FTP** – zachowuje
+  ochronę par, ale jest cieńszy i tańszy.
+- Do zewnętrznych lub podziemnych tras, gdzie wymagana jest ochrona przed wilgocią, ale EMI jest umiarkowane, dobrym kompromisem jest **FTP** z powłoką PE i
+  żelem.
+- W budynkach mieszkalnych, w częściach wspólnych z minimalnymi zakłóceniami, można użyć **UTP** dla oszczędności, jednak istnieje ryzyko utraty jakości obrazu
+  w przypadku pojawienia się silnych zakłóceń.
+
+---
+
+## Ranking kabli internetowych (od najlepszego do najgorszego)
 
 1. Klanet S/FTP LS0H Dca – pozycja 1
     - Cat 7 z pełnym ekranowaniem S/FTP (folia na parach + oplot + żyła uziemiająca)
@@ -140,6 +166,8 @@ Celem opracowania jest wybór rozwiązania zapewniającego wymaganą wydajność
     - U/FTP, AWG 23 drut, LSOH
     - Zakres pracy: –20…+50 °C
     - Długość serwisowa 1 m, obsługa PoE+ IEEE 802.3at
+
+---
 
 ## Wyjaśnienie wyboru
 
