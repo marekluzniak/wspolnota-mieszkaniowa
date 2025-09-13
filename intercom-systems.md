@@ -342,11 +342,11 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 
 #### Popularne elementy zestawu
 
-| Typ podzespołu | Nazwa podzespołu | Alarm-Tech | EC System | Allegro |
-|----------------|------------------|------------|-----------|---------|
-| -              | -                | - zł       | - zł      | - zł    |
-| -              | -                | - zł       | - zł      | - zł    |
-| -              | -                | - zł       | - zł      | - zł    |
+| Typ podzespołu  | Nazwa podzespołu   | Ubiquiti | Cena w PLN  | Allegro |
+|-----------------|--------------------|----------|-------------|---------|
+| G3 Intercom     | UA-G3-Intercom     | 418,20 € | 1 780,65 zł | - zł    |
+| Intercom Viewer | UA-Intercom-Viewer | 170,97 € | 727,97 zł   | - zł    |
+| -               | -                  | - zł     | - zł        | - zł    |
 
 #### Przykładowy zestaw 1 (8 lokali, 2 wejścia, tańsze odbiorniki)
 
