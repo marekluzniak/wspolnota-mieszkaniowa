@@ -65,7 +65,7 @@ Przy wyborze istotne są następujące kryteria:
 
 Na rynku dominują trzy typy rozwiązań:
 
-### 1. 2-żyłowy system cyfrowy (audio lub wideo)
+### 2-żyłowy system cyfrowy (audio lub wideo)
 
 Najprostsze i najtańsze rozwiązanie, często stosowane w starszych budynkach.
 
@@ -78,7 +78,7 @@ Najprostsze i najtańsze rozwiązanie, często stosowane w starszych budynkach.
 
 - Ograniczona jakość obrazu i brak nowoczesnych funkcji
 
-### 2. IP (PoE lub Wi-Fi)
+### IP (PoE lub Wi-Fi)
 
 Rozwiązanie nowoczesne, oferujące najwyższą jakość obrazu i dźwięku, a także integrację z innymi systemami bezpieczeństwa.
 
@@ -98,11 +98,11 @@ Lista publicznie dostępnych dokumentów:
 
 - [`Kable internetowe`](./ethernet-cables.md)
 
----
-
-### 3. Hybryda (2-żyłowy + bramka IP)
+### Hybryda (2-żyłowy + bramka IP)
 
 Rozwiązanie pośrednie – pozwala korzystać z prostego okablowania, a jednocześnie daje możliwość rozbudowy o funkcje „smart”.
+
+---
 
 ## Analiza wybranych systemów
 
@@ -348,16 +348,7 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 | Intercom Viewer | UA-Intercom-Viewer | 170,97 € | 727,97 zł   | - zł    |
 | -               | -                  | - zł     | - zł        | - zł    |
 
-#### Przykładowy zestaw 1 (8 lokali, 2 wejścia, tańsze odbiorniki)
-
-| Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt    |
-|----------------|------------------|-------|--------------|----------|
-| -              | -                | -     | - zł         | - zł     |
-| -              | -                | -     | - zł         | - zł     |
-| -              | -                | -     | - zł         | - zł     |
-| **Razem**      |                  |       |              | **- zł** |
-
-#### Przykładowy zestaw 2 (8 lokali, 2 wejścia, nowsze odbiorniki)
+#### Przykładowy zestaw (8 lokali, 2 wejścia, tańsze odbiorniki)
 
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt    |
 |----------------|------------------|-------|--------------|----------|
