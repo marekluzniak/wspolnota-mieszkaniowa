@@ -348,7 +348,7 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 | Intercom Viewer | UA-Intercom-Viewer | 170,97 € | 727,97 zł   | - zł    |
 | -               | -                  | - zł     | - zł        | - zł    |
 
-#### Przykładowy zestaw (8 lokali, 2 wejścia, tańsze odbiorniki)
+#### Przykładowy zestaw (8 lokali, 2 wejścia)
 
 | Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt    |
 |----------------|------------------|-------|--------------|----------|
