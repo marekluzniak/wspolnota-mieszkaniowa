@@ -259,8 +259,8 @@ aplikacją Hik-Connect.
 #### Kontrola domknięcia drzwi
 
 Jednym z najważniejszych elementów bezpieczeństwa jest pewność, że drzwi wejściowe zostały prawidłowo zamknięte po każdym użyciu.  
-Aby to osiągnąć, w proponowanym rozwiązaniu zastosowany może być **elektrozaczep Bira Hartte XS12UM** – model o wąskiej konstrukcji, wyposażony w funkcję *
-*monitorowania pozycji języka**.
+Aby to osiągnąć, w proponowanym rozwiązaniu zastosowany może być **elektrozaczep Bira Hartte XS12UM** – model o wąskiej konstrukcji, wyposażony w funkcję
+**monitorowania pozycji języka**.
 
 ##### Elektrozaczep Bira Hartte XS12UM
 
