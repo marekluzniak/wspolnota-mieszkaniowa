@@ -342,20 +342,34 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 
 #### Popularne elementy zestawu
 
-| Typ podzespołu  | Nazwa podzespołu   | Ubiquiti | Cena w PLN  | Allegro |
-|-----------------|--------------------|----------|-------------|---------|
-| G3 Intercom     | UA-G3-Intercom     | 418,20 € | 1 780,65 zł | - zł    |
-| Intercom Viewer | UA-Intercom-Viewer | 170,97 € | 727,97 zł   | - zł    |
-| -               | -                  | - zł     | - zł        | - zł    |
+| Typ podzespołu     | Nazwa podzespołu        | Kod producenta            | Ubiquiti | Cena w PLN  | Allegro     |
+|--------------------|-------------------------|---------------------------|----------|-------------|-------------|
+| Panel zewnętrzny   | G3 Intercom             | UA-G3-Intercom            | 418,20 € | 1 780,65 zł | - zł        |
+| Kaseta elektroniki | Door Hub Mini           | UA-Hub-Door-Mini          | 121,77 € | 518,05 zł   | - zł        |
+| Kaseta elektroniki | Door Hub                | UA-Hub-Door               | 227,55 € | 968,08 zł   | - zł        |
+| Switch             | Pro Max 16 PoE          | USW-Pro-Max-16-PoE (180W) | 453,87 € | 1 930,98 zł | 1 622,57 zł |
+| Panel wewnętrzny   | Intercom Viewer         | UA-Intercom-Viewer        | 170,97 € | 727,97 zł   | 659,70 zł   |
+| Panel wewnętrzny   | Intercom Viewer (3-pak) | UA-Intercom-Viewer-3      | 498,15 € | 2 119,78 zł | 2162,31 zł  |
 
-#### Przykładowy zestaw (8 lokali, 2 wejścia)
+#### Przykładowy zestaw 1 (8 lokali, 2 wejścia)
 
-| Typ podzespołu | Nazwa podzespołu | Ilość | Cena za szt. | Koszt    |
-|----------------|------------------|-------|--------------|----------|
-| -              | -                | -     | - zł         | - zł     |
-| -              | -                | -     | - zł         | - zł     |
-| -              | -                | -     | - zł         | - zł     |
-| **Razem**      |                  |       |              | **- zł** |
+| Typ podzespołu     | Nazwa podzespołu        | Ilość | Cena za szt. | Koszt            |
+|--------------------|-------------------------|-------|--------------|------------------|
+| Panel zewnętrzny   | G3 Intercom             | 2     | 1 780,65 zł  | 3 561,30 zł      |
+| Kaseta elektroniki | Door Hub Mini           | 2     | 518,05 zł    | 1 036,10 zł      |
+| Switch             | Pro Max 16 PoE          | 1     | 1 622,57 zł  | 1 622,57 zł      |
+| Panel wewnętrzny   | Intercom Viewer         | 8     | 659,70 zł    | 5 277,60 zł      |
+| **Razem**          |                         |       |              | **11 497,57 zł** |
+
+#### Przykładowy zestaw 2 (8 lokali, 2 wejścia, 2 kontrole domknięcia drzwi)
+
+| Typ podzespołu     | Nazwa podzespołu        | Ilość | Cena za szt. | Koszt            |
+|--------------------|-------------------------|-------|--------------|------------------|
+| Panel zewnętrzny   | G3 Intercom             | 2     | 1 780,65 zł  | 3 561,30 zł      |
+| Kaseta elektroniki | Door Hub                | 2     | 968,08 zł    | 1 936,16 zł      |
+| Switch             | Pro Max 16 PoE          | 1     | 1 622,57 zł  | 1 622,57 zł      |
+| Panel wewnętrzny   | Intercom Viewer         | 8     | 659,70 zł    | 5 277,60 zł      |
+| **Razem**          |                         |       |              | **12 397,63 zł** |
 
 #### Kontrola domknięcia drzwi
 
