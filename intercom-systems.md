@@ -349,7 +349,7 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 | Kaseta elektroniki | Door Hub                | UA-Hub-Door               | 227,55 € | 968,08 zł   | - zł        |
 | Switch             | Pro Max 16 PoE          | USW-Pro-Max-16-PoE (180W) | 453,87 € | 1 930,98 zł | 1 622,57 zł |
 | Panel wewnętrzny   | Intercom Viewer         | UA-Intercom-Viewer        | 170,97 € | 727,97 zł   | 659,70 zł   |
-| Panel wewnętrzny   | Intercom Viewer (3-pak) | UA-Intercom-Viewer-3      | 498,15 € | 2 119,78 zł | 2162,31 zł  |
+| Panel wewnętrzny   | Intercom Viewer (3-pak) | UA-Intercom-Viewer-3      | 498,15 € | 2 119,78 zł | 2 162,31 zł |
 
 #### Przykładowy zestaw 1 (8 lokali, 2 wejścia)
 
