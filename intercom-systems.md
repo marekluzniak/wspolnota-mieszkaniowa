@@ -147,7 +147,7 @@ Laskomex (PL) — ponad 30 lat na rynku, szeroka baza instalacji referencyjnych;
 #### Popularne elementy zestawu
 
 | Typ podzespołu          | Nazwa podzespołu   | Alarm-Tech  | EC System   | Allegro   |
-|-------------------------|--------------------|-------------|-------------|-----------|
+|-------------------------|--------------------|------------:|------------:|----------:|
 | Panel zewnętrzny        | CP-3113R INOX RFID | 1 353,00 zł | 1 353,00 zł | - zł      |
 | Kaseta elektroniki      | EC-3100R-2         | 485,85 zł   | 485,85 zł   | 465,12 zł |
 | Zasilacz                | TR/B 2303          | 123,00 zł   | 123,00 zł   | 115,00 zł |
@@ -158,7 +158,7 @@ Laskomex (PL) — ponad 30 lat na rynku, szeroka baza instalacji referencyjnych;
 #### Przykładowy zestaw (8 lokali, 2 wejścia)
 
 | Typ podzespołu          | Nazwa podzespołu   | Ilość | Cena za szt. | Koszt           |
-|-------------------------|--------------------|-------|--------------|-----------------|
+|-------------------------|--------------------|------:|-------------:|----------------:|
 | Panel zewnętrzny        | CP-3113R INOX RFID | 2     | 1 353,00 zł  | 2 706,00 zł     |
 | Kaseta elektroniki      | EC-3100R-2         | 1     | 465,12 zł    | 465,12 zł       |
 | Zasilacz                | TR/B 2303          | 2     | 123,00 zł    | 246,00 zł       |
@@ -219,7 +219,7 @@ aplikacją Hik-Connect.
 #### Popularne elementy zestawu
 
 | Typ podzespołu          | Nazwa podzespołu  | Alarm-Tech  | EC System   | Allegro     |
-|-------------------------|-------------------|-------------|-------------|-------------|
+|-------------------------|-------------------|------------:|------------:|------------:|
 | Moduł stacji bramowej   | DS-KD8003-IME1(B) | 968,26 zł   | 965,55 zł   | 549,00 zł   |
 | Moduł klawiatury        | DS-KD-KP          | 656,33 zł   | 655,59 zł   | 362,99 zł   |
 | Moduł czytnika kart     | DS-KD-M           | 405,41 zł   | 404,67 zł   | 248,99 zł   |
@@ -237,7 +237,7 @@ aplikacją Hik-Connect.
 #### Przykładowy zestaw 1 (8 lokali, 2 wejścia, tańsze odbiorniki)
 
 | Typ podzespołu          | Nazwa podzespołu  | Ilość | Cena za szt. | Koszt           |
-|-------------------------|-------------------|-------|--------------|-----------------|
+|-------------------------|-------------------|------:|-------------:|----------------:|
 | Moduł stacji bramowej   | DS-KD8003-IME1(B) | 2     | 549,00 zł    | 1 098,00 zł     |
 | Moduł klawiatury        | DS-KD-KP          | 2     | 362,99 zł    | 725,98 zł       |
 | Ramka podtynkowa        | DS-KD-ACF2        | 2     | 159,90 zł    | 319,80 zł       |
@@ -248,7 +248,7 @@ aplikacją Hik-Connect.
 #### Przykładowy zestaw 2 (8 lokali, 2 wejścia, nowsze odbiorniki)
 
 | Typ podzespołu          | Nazwa podzespołu  | Ilość | Cena za szt. | Koszt           |
-|-------------------------|-------------------|-------|--------------|-----------------|
+|-------------------------|-------------------|------:|-------------:|----------------:|
 | Moduł stacji bramowej   | DS-KD8003-IME1(B) | 2     | 549,00 zł    | 1 098,00 zł     |
 | Moduł klawiatury        | DS-KD-KP          | 2     | 362,99 zł    | 725,98 zł       |
 | Ramka podtynkowa        | DS-KD-ACF2        | 2     | 159,90 zł    | 319,80 zł       |
@@ -343,7 +343,7 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 #### Popularne elementy zestawu
 
 | Typ podzespołu     | Nazwa podzespołu        | Kod producenta            | Ubiquiti | Cena w PLN  | Allegro     |
-|--------------------|-------------------------|---------------------------|----------|-------------|-------------|
+|--------------------|-------------------------|---------------------------|---------:|------------:|------------:|
 | Panel zewnętrzny   | G3 Intercom             | UA-G3-Intercom            | 418,20 € | 1 780,65 zł | - zł        |
 | Kaseta elektroniki | Door Hub Mini           | UA-Hub-Door-Mini          | 121,77 € | 518,05 zł   | - zł        |
 | Kaseta elektroniki | Door Hub                | UA-Hub-Door               | 227,55 € | 968,08 zł   | - zł        |
@@ -354,7 +354,7 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 #### Przykładowy zestaw 1 (8 lokali, 2 wejścia)
 
 | Typ podzespołu     | Nazwa podzespołu        | Ilość | Cena za szt. | Koszt            |
-|--------------------|-------------------------|-------|--------------|------------------|
+|--------------------|-------------------------|------:|-------------:|-----------------:|
 | Panel zewnętrzny   | G3 Intercom             | 2     | 1 780,65 zł  | 3 561,30 zł      |
 | Kaseta elektroniki | Door Hub Mini           | 2     | 518,05 zł    | 1 036,10 zł      |
 | Switch             | Pro Max 16 PoE          | 1     | 1 622,57 zł  | 1 622,57 zł      |
@@ -364,7 +364,7 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 #### Przykładowy zestaw 2 (8 lokali, 2 wejścia, 2 kontrole domknięcia drzwi)
 
 | Typ podzespołu     | Nazwa podzespołu        | Ilość | Cena za szt. | Koszt            |
-|--------------------|-------------------------|-------|--------------|------------------|
+|--------------------|-------------------------|------:|-------------:|-----------------:|
 | Panel zewnętrzny   | G3 Intercom             | 2     | 1 780,65 zł  | 3 561,30 zł      |
 | Kaseta elektroniki | Door Hub                | 2     | 968,08 zł    | 1 936,16 zł      |
 | Switch             | Pro Max 16 PoE          | 1     | 1 622,57 zł  | 1 622,57 zł      |
