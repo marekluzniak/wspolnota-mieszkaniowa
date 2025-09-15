@@ -350,6 +350,7 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 | Switch             | Pro Max 16 PoE          | USW-Pro-Max-16-PoE (180W) | 453,87 € | 1 930,98 zł | 1 622,57 zł |
 | Panel wewnętrzny   | Intercom Viewer         | UA-Intercom-Viewer        | 170,97 € | 727,97 zł   | 659,70 zł   |
 | Panel wewnętrzny   | Intercom Viewer (3-pak) | UA-Intercom-Viewer-3      | 498,15 € | 2 119,78 zł | 2 162,31 zł |
+| Kontroler UniFi    | CloudKey+               | UCK-G2-SSD                | 281,67 € | 1 198,40 zł | 876,58 zł   |
 
 #### Przykładowy zestaw 1 (8 lokali, 2 wejścia)
 
@@ -370,6 +371,17 @@ kontrolą dostępu; w Polsce obsługa i części są coraz bardziej dostępne dz
 | Switch             | Pro Max 16 PoE          | 1     | 1 622,57 zł  | 1 622,57 zł      |
 | Panel wewnętrzny   | Intercom Viewer         | 8     | 659,70 zł    | 5 277,60 zł      |
 | **Razem**          |                         |       |              | **12 397,63 zł** |
+
+#### Przykładowy zestaw 3 (8 lokali, 2 wejścia, 2 kontrole domknięcia drzwi, 1 kontroler)
+
+| Typ podzespołu     | Nazwa podzespołu        | Ilość | Cena za szt. | Koszt            |
+|--------------------|-------------------------|------:|-------------:|-----------------:|
+| Panel zewnętrzny   | G3 Intercom             | 2     | 1 780,65 zł  | 3 561,30 zł      |
+| Kaseta elektroniki | Door Hub                | 2     | 968,08 zł    | 1 936,16 zł      |
+| Switch             | Pro Max 16 PoE          | 1     | 1 622,57 zł  | 1 622,57 zł      |
+| Panel wewnętrzny   | Intercom Viewer         | 8     | 659,70 zł    | 5 277,60 zł      |
+| Kontroler UniFi    | CloudKey+               | 1     | 876,58 zł    | 876,58 zł        |
+| **Razem**          |                         |       |              | **13 274,21 zł** |
 
 #### Kontrola domknięcia drzwi
 
