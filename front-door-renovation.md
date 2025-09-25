@@ -53,11 +53,11 @@ Renowacja zabytkowych drzwi w kamienicy wymaga uzyskania odpowiednich pozwoleń:
 
 ### 1. **RECO Konserwacja Zabytków Sp. z o.o.** ⭐⭐⭐⭐⭐
 
-**Dlaczego na pierwszym miejscu:**
+**Dlaczego na pierwszym miejscu:**  
 Lider w branży konserwacji zabytków na Śląsku z 28-letnim doświadczeniem.
 Kompleksowe podejście do renowacji, współpraca z instytucjami muzealnymi i konserwatorskimi.
 
-**Specjalizacja:**
+**Specjalizacja:**  
 Kompleksowa renowacja obiektów zabytkowych, konserwacja zabytków architektury, rekonstrukcja drzwi zabytkowych, prace pozłotnicze, konserwacja sztukaterii.
 
 **Osiągnięcia:**
@@ -81,11 +81,11 @@ Kompleksowa renowacja obiektów zabytkowych, konserwacja zabytków architektury,
 
 ### 2. **Stolarnia Grzegorz Tomala** ⭐⭐⭐⭐
 
-**Dlaczego drugie miejsce:**
+**Dlaczego drugie miejsce:**  
 Ponad 30 lat doświadczenia w renowacji stolarki zabytkowej.
 Specjalizacja w odnawianiu drzwi z kamienic i dworków zgodnie z zaleceniami konserwatora zabytków.
 
-**Specjalizacja:**
+**Specjalizacja:**  
 Renowacja starych drzwi drewnianych w kamienicach i dworkach.
 Kompleksowe przygotowywanie do odnowy: czyszczenie, szlifowanie, polerowanie, usuwanie szkodników, uzupełnianie ubytków.
 
@@ -110,11 +110,11 @@ Kompleksowe przygotowywanie do odnowy: czyszczenie, szlifowanie, polerowanie, us
 
 ### 3. **Wizja i Styl – Zbigniew Rudnicki** ⭐⭐⭐⭐
 
-**Dlaczego trzecie miejsce:**
+**Dlaczego trzecie miejsce:**  
 Specjalizacja w konserwacji drewnianej stolarki zabytkowej we współpracy z Wojewódzkim Konserwatorem Zabytków.
 Kompleksowe usługi renowacji.
 
-**Specjalizacja:**
+**Specjalizacja:**  
 Kompleksowe odnawianie i restaurowanie starych drzwi wejściowych i pokojowych.
 Profesjonalne usuwanie starych powłok, konserwacja powierzchni, olejowanie i woskowanie produktami ekologicznymi.
 
@@ -139,11 +139,11 @@ Profesjonalne usuwanie starych powłok, konserwacja powierzchni, olejowanie i wo
 
 ### 4. **Stoglarnia** ⭐⭐⭐⭐
 
-**Dlaczego czwarte miejsce:**
+**Dlaczego czwarte miejsce:**  
 Pracownia specjalizująca się w ratowaniu starej stolarki.
 Misja ekologiczna i dbałość o zachowanie dziedzictwa kulturowego.
 
-**Specjalizacja:**
+**Specjalizacja:**  
 Renowacja drzwi drewnianych zabytkowych kamienic.
 Oczyszczenie stolarki, naprawy stolarskie, rekonstrukcja elementów zdobionych, konserwacja i naprawa okuć, renowacja witraży.
 
@@ -167,10 +167,10 @@ Oczyszczenie stolarki, naprawy stolarskie, rekonstrukcja elementów zdobionych, 
 
 ### 5. **Antyk-Styl** ⭐⭐⭐⭐
 
-**Dlaczego piąte miejsce:**
+**Dlaczego piąte miejsce:**  
 Firma oferująca renowację zabytkowych mebli i stolarki. Specjalizacja w stylach historycznych, szczególnie angielskim.
 
-**Specjalizacja:**
+**Specjalizacja:**  
 Renowacja zabytkowych mebli i stolarki drzwiowej, intarsjowanie i inkrustacja, pozłacanie detali, politurowanie powierzchni, odnawianie boazerii i elementów
 drewnianych.
 
@@ -193,9 +193,9 @@ drewnianych.
 
 ---
 
-### 7. **Stolarnia Alport** ⭐⭐⭐
+### 6. **Stolarnia Alport** ⭐⭐⭐
 
-**Specjalizacja:**
+**Specjalizacja:**  
 Renowacja drzwi zabytkowych, produkcja drzwi nietypowych oraz schodów. Działalność głównie na terenie Bytomia i okolic.
 
 **Dane kontaktowe:**
@@ -210,9 +210,9 @@ Renowacja drzwi zabytkowych, produkcja drzwi nietypowych oraz schodów. Działal
 
 ---
 
-### 8. **Stolarnia Kukiełka i syn** ⭐⭐⭐
+### 7. **Stolarnia Kukiełka i syn** ⭐⭐⭐
 
-**Specjalizacja:**
+**Specjalizacja:**  
 Rodzinna stolarnia w Chorzowie.
 Meble na wymiar, schody, drzwi, sztukaterię drewnianą.
 Pasja i miłość do drewna przekazywana z pokolenia na pokolenie.
@@ -229,9 +229,9 @@ Pasja i miłość do drewna przekazywana z pokolenia na pokolenie.
 
 ---
 
-### 9. **Echo Meble** ⭐⭐⭐
+### 8. **Echo Meble** ⭐⭐⭐
 
-**Specjalizacja:**
+**Specjalizacja:**  
 Stolarz i usługi stolarskie, renowacja mebli zabytkowych i antyki.
 Bezpłatny dojazd na terenie Śląska.
 
@@ -244,3 +244,135 @@ Bezpłatny dojazd na terenie Śląska.
 - **Adres e-mail**: [biuro@echo-meble.pl](mailto:biuro@echo-meble.pl?subject=Renowacja%20zabytkowych%20drzwi%20wejściowych%20do%20kamienicy)
 - **Adres strony internetowej**: http://www.echo-meble.pl/uslugi.php
 - **Portfolio**: http://www.echo-meble.pl/realizacje
+
+---
+
+## Wybór odpowiedniego wykonawcy
+
+### Na co zwrócić uwagę przy wyborze firmy?
+
+#### **Doświadczenie z zabytkami**
+
+- Udokumentowane realizacje w obiektach wpisanych do rejestru zabytków
+- Znajomość procedur konserwatorskich i współpracy z Wojewódzkim Konserwatorem Zabytków
+- Umiejętność pracy z tradycyjnymi materiałami i technikami
+
+#### **Kwalifikacje zespołu**
+
+- Wykształcenie konserwatorskie lub stolarskie
+- Znajomość kodeksu etyki konserwatorskiej
+- Doświadczenie w identyfikacji gatunków drewna i technik historycznych
+
+#### **Portfolio i referencje**
+
+- Dokumentacja fotograficzna wykonanych prac
+- Referencje od zadowolonych klientów
+- Opinie konserwatorów zabytków o jakości prac
+
+#### **Podejście do projektu**
+
+- Indywidualna wycena na podstawie oględzin
+- Szczegółowy opis planowanych prac
+- Transparentność w kwestii kosztów i terminów
+
+#### **Wyposażenie pracowni**
+
+- Odpowiednie narzędzia i sprzęt do prac konserwatorskich
+- Przenośne odciągi i odkurzacze przemysłowe
+- Miejsce do bezpiecznego przechowywania zabytków
+
+---
+
+## Plan działania wspólnoty
+
+### Przed rozpoczęciem prac
+
+1. **Kontakt z Wojewódzkim Konserwatorem Zabytków** przed wyborem wykonawcy
+2. **Zebranie dokumentacji** takich jak zdjęcia drzwi z różnych stron, ich wymiary i opis stanu
+3. **Poproszenie o kilka wycen** od specjalistów z doświadczeniem w zabytkach
+4. **Sprawdzenie referencji** i portfolio wykonawców
+5. **Uzgodnienie materiałów** i technik wykonania z konserwatorem
+
+### Podczas realizacji
+
+1. **Zabezpieczenie zastępczych drzwi** na czas renowacji
+2. **Monitorowanie postępu prac** i dokumentowanie procesu fotograficznie
+3. **Utrzymywanie kontaktu** z konserwatorem zabytków
+4. **Sprawdzanie zgodności** prac z uzgodnionymi wytycznymi
+
+### Po zakończeniu renowacji
+
+1. **Odebranie dokumentacji** wykonanych prac
+2. **Zgłoszenie zakończenia prac** do Wojewódzkiego Konserwatora Zabytków zgodnie z pozwoleniem
+3. **Zadbanie o konserwację** poprzez regularne olejowanie lub woskowanie
+4. **Zachowanie gwarancji** i danych kontaktowych wykonawcy
+
+---
+
+## Źródła finansowania
+
+### Możliwości uzyskania dofinansowania
+
+**Dotacje celowe na remont zabytków:**
+
+- Ministerstwo Kultury i Dziedzictwa Narodowego
+- Urząd Miasta Katowice
+- Województwo Śląskie
+- Fundusze europejskie na ochronę dziedzictwa
+
+**Warunki otrzymania dotacji:**
+
+- Posiadanie tytułu prawnego do nieruchomości zabytkowej
+- Uzyskanie pozwolenia konserwatora zabytków
+- Zgodność prac z wymogami konserwatorskimi
+- Współfinansowanie własne (zazwyczaj 50% kosztów)
+
+---
+
+## Najczęściej zadawane pytania (FAQ)
+
+**Czy musimy mieć zgodę konserwatora zabytków na renowację drzwi?**  
+Tak, jeśli kamienica jest wpisana do rejestru zabytków, wszystkie prace wymagają pozwolenia wojewódzkiego konserwatora zabytków.
+Prace bez zgody są nielegalne i grożą wysokimi karami.
+
+**Ile czasu zajmuje uzyskanie pozwolenia konserwatorskiego?**  
+Standardowo 30 dni od złożenia kompletnego wniosku. W skomplikowanych przypadkach może być wydłużony do 60 dni.
+
+**Czy da się odnowić bardzo zniszczone drzwi zabytkowe?**  
+To zależy od stopnia zniszczenia. Jeśli drewno jest mocno spróchniałe lub zniszczone przez korniki na dużym obszarze, renowacja może być nieopłacalna.
+
+**Kto zapewnia drzwi zastępcze na czas renowacji?**  
+Za zabezpieczenie drzwi zastępczych odpowiada klient. Specjaliści mogą polecić sprawdzonego dostawcę.
+
+**Czy można zmienić kolor drzwi podczas renowacji?**  
+Tak, ale nowy kolor musi być uzgodniony z konserwatorem zabytków. Preferowane jest zachowanie oryginalnego charakteru lub powrót do surowego drewna.
+
+**Jak długo służą odnowione drzwi zabytkowe?**  
+Przy odpowiedniej konserwacji (regularne olejowanie lub woskowanie) mogą służyć kolejne kilkadziesiąt lat.
+
+**Czy renowacja jest tańsza niż zakup nowych drzwi?**  
+W przypadku drzwi zabytkowych często tak, ponieważ nowe drzwi w podobnej jakości i z indywidualnym projektem kosztują znacznie więcej.
+
+**Co jeśli podczas renowacji odkryją się dodatkowe problemy?**  
+Rzetelny wykonawca poinformuje o dodatkowych kosztach i uzgodni dalsze działania z klientem i konserwatorem zabytków.
+
+**Czy można renowować tylko część drzwi?**  
+Specjaliści oferują wyłącznie kompleksowe usługi renowacji. Naprawa pojedynczych ubytków nie gwarantuje trwałego efektu.
+
+---
+
+## Podsumowanie
+
+Renowacja 111-letnich zabytkowych drzwi to inwestycja w przyszłość i zachowanie dziedzictwa kulturowego.
+Wybór odpowiedniego specjalisty z doświadczeniem w pracy z zabytkami oraz przestrzeganie procedur konserwatorskich gwarantuje sukces całego przedsięwzięcia.
+
+**Kluczowe kroki do sukcesu:**
+
+1. Uzyskanie pozwolenia konserwatora zabytków
+2. Wybór wykonawcy z udokumentowanym doświadczeniem
+3. Uzgodnienie materiałów i technik zgodnych z wymogami
+4. Monitorowanie prac i dokumentowanie procesu
+5. Regularna konserwacja po zakończeniu renowacji
+
+Zainwestowanie w profesjonalną renowację zabytkowych drzwi to decyzja, która przyniesie korzyści na lata – zarówno estetyczne, jak i ekonomiczne.
+Odnowione drzwi staną się wizytówką kamienicy i powodem do dumy dla całej wspólnoty mieszkaniowej.
