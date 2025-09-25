@@ -6,5 +6,6 @@ Witam na stronie naszej wspólnoty mieszkaniowej.
 
 Lista publicznie dostępnych dokumentów:
 
+- [`Renowacja drzwi`](./front-door-renovation.md)
 - [`Systemy domofonowe`](./intercom-systems.md)
 
